@@ -1,17 +1,18 @@
 from bs4 import BeautifulSoup
-import urllib2
+import requests
 
 url = "https://www.montgomerychamber.com/events"
 
-content = urllib2.urlopen(url).read()
-
-soup = BeautifulSoup(content, features="lxml")
+#content = urllib2.urlopen(url).read()
+req = requests.get(url)
+#print (req.content)
+soup = BeautifulSoup(req.content)
 
 #print soup
 
 
-print soup.title.string
+print (soup.title.string)
 for link in soup.find_all('div', class_='mn-title'):
-        print link
+        print (link)
         #print link.get('href')
      
