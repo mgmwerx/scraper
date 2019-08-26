@@ -11,8 +11,6 @@ class MgmchamberSpider(CrawlSpider):
     start_urls = ['https://www.montgomerychamber.com/events']
 
     def parse(self, response):
-#        for div in response.xpath('//div[@id="mn-events-listings"]').getall():
-        i = 0
         for div in response.xpath('//div[@itemscope]'):
             item = {}
             item['title'] = div.xpath('.//div/div/a/text()').get()

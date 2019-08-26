@@ -1,0 +1,176 @@
+<div class="ai1ec-date">
+				<a class="ai1ec-date-title ai1ec-load-view" href="http://montgomeryparents.com/index.php/family-calendar/action~oneday/exact_date~8-31-2019/" data-type="json">
+					<div class="ai1ec-month">Aug</div>
+					<div class="ai1ec-day">31</div>
+					<div class="ai1ec-weekday">Sat</div>
+				</a>
+				<div class="ai1ec-date-events">
+							<div class="ai1ec-event ai1ec-event-id-3644 ai1ec-event-instance-id-4956 ai1ec-expanded" data-end="">
+								<div class="ai1ec-event-header">
+									<div class="ai1ec-event-toggle">
+										<i class="ai1ec-fa ai1ec-fa-minus-circle ai1ec-fa-lg"></i>
+										<i class="ai1ec-fa ai1ec-fa-plus-circle ai1ec-fa-lg"></i>
+									</div>
+									<span class="ai1ec-event-title">
+									         AUM Offers Free Mandarin Classes
+									         <span class="ai1ec-event-location">@ Auburn Montgomery </span>
+                  </span>
+									<div class="ai1ec-sas-actions ai1ec-btn-group ai1ec-clearfix">
+	                   <a href="#" target="_blank" class="ai1ec-sas-action ai1ec-btn ai1ec-btn-primary	ai1ec-btn-xs	ai1ec-btn-sm ai1ec-sas-action-tickets">
+			                  <i class="ai1ec-fa ai1ec-fa-ticket"></i><span class="ai1ec-hidden-xs">Tickets</span>
+                     </a>
+	                </div>
+									<div class="ai1ec-event-time">
+										 Aug 31 @ 3:30 pm – 4:30 pm
+									</div>
+							 </div>
+
+							<div class="ai1ec-event-summary ai1ec-expanded">
+									<div class="ai1ec-event-description">
+											<a class="ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/aum-offers-free-mandarin-classes-every-saturday/?instance_id=4956">
+												<div class="ai1ec-event-avatar timely  ai1ec-post_thumbnail ai1ec-landscape"><img src="http://montgomeryparents.com/wp-content/uploads/2016/12/images-2-300x162.png" alt="AUM Offers Free Mandarin Classes @ Auburn Montgomery " width="300" height="162"></div>
+											</a>
+											<p><b></b>Auburn Montgomery’s Confucius Institute continues to offer free Mandarin classes to the community. To register, send the student’s name, age and contact information to ama@aum.edu.</p>
+									</div>
+									<div class="ai1ec-event-summary-footer">
+										<div class="ai1ec-btn-group ai1ec-actions">
+												<a class="ai1ec-read-more ai1ec-btn ai1ec-btn-default ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/aum-offers-free-mandarin-classes-every-saturday/?instance_id=4956">
+												     Read more <i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+											  </a>
+										</div>
+										<span class="ai1ec-categories">
+												<span class="ai1ec-field-label">
+													<i class="ai1ec-fa ai1ec-fa-folder-open"></i>
+													Categories:
+												</span>
+												<a class="ai1ec-category ai1ec-term-id-153 p-category" href="http://montgomeryparents.com/index.php/family-calendar/cat_ids~153/"> Educational</a>
+										</span>
+									</div>
+								</div>
+							</div>
+        	</div>
+			</div>
+
+
+      <div class="ai1ec-date
+				">
+				<a class="ai1ec-date-title ai1ec-load-view" href="http://montgomeryparents.com/index.php/family-calendar/action~oneday/exact_date~9-1-2019/" data-type="json">
+					<div class="ai1ec-month">Sep</div>
+					<div class="ai1ec-day">1</div>
+					<div class="ai1ec-weekday">Sun</div>
+									</a>
+				<div class="ai1ec-date-events">
+											 																		<div class="ai1ec-event
+								ai1ec-event-id-3646
+								ai1ec-event-instance-id-5530
+																ai1ec-expanded" data-end="">
+
+								<div class="ai1ec-event-header">
+									<div class="ai1ec-event-toggle">
+										<i class="ai1ec-fa ai1ec-fa-minus-circle ai1ec-fa-lg"></i>
+										<i class="ai1ec-fa ai1ec-fa-plus-circle ai1ec-fa-lg"></i>
+									</div>
+									<span class="ai1ec-event-title">
+										First Sundays at One
+																					<span class="ai1ec-event-location">@ Montgomery Museum of Fine Arts</span>
+																			</span>
+									<div class="ai1ec-sas-actions ai1ec-btn-group ai1ec-clearfix">
+	<a href="#" target="_blank" class="ai1ec-sas-action ai1ec-btn ai1ec-btn-primary
+			ai1ec-btn-xs			ai1ec-btn-sm ai1ec-sas-action-tickets">
+			<i class="ai1ec-fa ai1ec-fa-ticket"></i>
+			<span class="ai1ec-hidden-xs">Tickets</span>
+		</a>
+	</div>
+
+
+									<div class="ai1ec-event-time">
+										 Sep 1 @ 1:00 pm – 2:00 pm
+									</div>
+								</div>
+
+																<div class="ai1ec-event-summary ai1ec-expanded">
+
+									<div class="ai1ec-event-description">
+																					<a class="ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/first-sundays-at-one-2/?instance_id=5530">
+												<div class="ai1ec-event-avatar timely  ai1ec-post_thumbnail ai1ec-portrait"><img src="http://montgomeryparents.com/wp-content/uploads/2016/07/52d6b5f59ccfd956f96a2818b144f399.jpg" alt="First Sundays at One @ Montgomery Museum of Fine Arts" width="280" height="280"></div>
+											</a>
+																				<p>Learn more about the traveling exhibitions as well as the Museum’s Permanent Collection in these FREE docent-led tours the FIRST Sunday of each month. For more info, call (334) 240-4333 or visit mmfa.org/.</p>
+
+									</div>
+
+									<div class="ai1ec-event-summary-footer">
+										<div class="ai1ec-btn-group ai1ec-actions">
+																						<a class="ai1ec-read-more ai1ec-btn ai1ec-btn-default
+												ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/first-sundays-at-one-2/?instance_id=5530">
+												Read more <i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+											</a>
+										</div>
+																																									<span class="ai1ec-categories">
+												<span class="ai1ec-field-label">
+													<i class="ai1ec-fa ai1ec-fa-folder-open"></i>
+													Categories:
+												</span>
+												<a class=" ai1ec-category ai1ec-term-id-159 p-category" href="http://montgomeryparents.com/index.php/family-calendar/cat_ids~159/"> Art</a> <a class=" ai1ec-category ai1ec-term-id-153 p-category" href="http://montgomeryparents.com/index.php/family-calendar/cat_ids~153/"> Educational</a>
+											</span>
+																													</div>
+								</div>
+
+							</div>
+													<div class="ai1ec-event
+								ai1ec-event-id-3663
+								ai1ec-event-instance-id-4606
+																ai1ec-expanded" data-end="">
+
+								<div class="ai1ec-event-header">
+									<div class="ai1ec-event-toggle">
+										<i class="ai1ec-fa ai1ec-fa-minus-circle ai1ec-fa-lg"></i>
+										<i class="ai1ec-fa ai1ec-fa-plus-circle ai1ec-fa-lg"></i>
+									</div>
+									<span class="ai1ec-event-title">
+										Looney’s Special Needs Skate
+																					<span class="ai1ec-event-location">@ Looneys Super Skate</span>
+																			</span>
+									<div class="ai1ec-sas-actions ai1ec-btn-group ai1ec-clearfix">
+	<a href="#" target="_blank" class="ai1ec-sas-action ai1ec-btn ai1ec-btn-primary
+			ai1ec-btn-xs			ai1ec-btn-sm ai1ec-sas-action-tickets">
+			<i class="ai1ec-fa ai1ec-fa-ticket"></i>
+			<span class="ai1ec-hidden-xs">Tickets</span>
+		</a>
+	</div>
+
+
+									<div class="ai1ec-event-time">
+										 Sep 1 @ 5:30 pm – 7:30 pm
+									</div>
+								</div>
+
+																<div class="ai1ec-event-summary ai1ec-expanded">
+
+									<div class="ai1ec-event-description">
+																					<a class="ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/looneys-special-needs-skate-2/?instance_id=4606">
+												<div class="ai1ec-event-avatar timely  ai1ec-post_thumbnail ai1ec-landscape"><img src="http://montgomeryparents.com/wp-content/uploads/2016/12/download-2-1.jpg" alt="Looney's Special Needs Skate @ Looneys Super Skate | Montgomery | Alabama | United States" width="290" height="174"></div>
+											</a>
+																				<p>1st and 3rd Sundays of every month. All ages welcome. Sensory sensitive. Volunteers available for assistance. $5. For more information contact Lyrastephens@yahoo.com.</p>
+
+									</div>
+
+									<div class="ai1ec-event-summary-footer">
+										<div class="ai1ec-btn-group ai1ec-actions">
+																						<a class="ai1ec-read-more ai1ec-btn ai1ec-btn-default
+												ai1ec-load-event" href="http://montgomeryparents.com/index.php/event/looneys-special-needs-skate-2/?instance_id=4606">
+												Read more <i class="ai1ec-fa ai1ec-fa-arrow-right"></i>
+											</a>
+										</div>
+																																									<span class="ai1ec-categories">
+												<span class="ai1ec-field-label">
+													<i class="ai1ec-fa ai1ec-fa-folder-open"></i>
+													Categories:
+												</span>
+												<a class=" ai1ec-category ai1ec-term-id-93 p-category" href="http://montgomeryparents.com/index.php/family-calendar/cat_ids~93/"> Kids</a> <a class=" ai1ec-category ai1ec-term-id-92 p-category" href="http://montgomeryparents.com/index.php/family-calendar/cat_ids~92/"> Sports</a>
+											</span>
+																													</div>
+								</div>
+
+							</div>
+						 					 				</div>
+			</div>
