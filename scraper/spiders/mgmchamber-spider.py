@@ -4,8 +4,7 @@ import json
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-
-class MgmchamberSpider(CrawlSpider):
+class MgmChamberSpider(CrawlSpider):
     name = 'mgmchamber-spider'
     allowed_domains = ['montgomerychamber.com']
     start_urls = ['https://www.montgomerychamber.com/events']

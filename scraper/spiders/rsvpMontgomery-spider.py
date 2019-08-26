@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import scrapy
-from items import ScraperItem
 
 class rsvpMontgomeryHelper():
     # Given a date and time IN THE SPECIFIC FORMAT USED BY RSVP MONTGOMERY,
@@ -13,7 +12,7 @@ class rsvpMontgomeryHelper():
 
 class rsvpMontgomerySpider(scrapy.Spider):
     name = "rsvpMontgomery-spider"
-    
+
     # The allowed domain and the URLs where the spider should start crawling:
     allowed_domains = ["rsvp-montgomery.com"]
     start_urls = ['http://www.rsvp-montgomery.com/events']
@@ -52,4 +51,3 @@ class rsvpMontgomerySpider(scrapy.Spider):
             #print(item)
             #print("======= ITEM END   ===========")
             yield item
-

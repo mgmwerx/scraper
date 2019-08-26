@@ -4,7 +4,6 @@ import json
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-
 class RiverRegionJourneySpider(CrawlSpider):
     name = 'riverregionjourney-spider'
     allowed_domains = ['www.readjourneymagazine.com']
@@ -20,11 +19,11 @@ class RiverRegionJourneySpider(CrawlSpider):
               print(item)
 
               # Parse String from day time -
-              
+
               print("------------------------")
-           
+
     def parse_details(self, response):
         detail = {}
         #print(detail)
-        
+
         return detail
