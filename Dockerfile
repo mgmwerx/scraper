@@ -14,4 +14,4 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Run the crawler when the container launches.
-CMD [ "python3", "./launch-spider.py" ]
+CMD [ "python3", "./app.py" ]

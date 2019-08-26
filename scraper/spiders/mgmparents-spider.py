@@ -11,8 +11,6 @@ class MgmParentsSpider(CrawlSpider):
     start_urls = ['http://montgomeryparents.com/index.php/family-calendar']
 
     def parse(self, response):
-#        for div in response.xpath('//*[@id="ai1ec-calendar-view"]/div'):
-
         for div in response.xpath('//div[contains(@class, "ai1ec-event-summary ai1ec-expanded")]'):
             item = {}
             item['title'] = div.xpath('.//a/div/img/@alt').get()
