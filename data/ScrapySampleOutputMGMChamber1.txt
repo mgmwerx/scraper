@@ -1,0 +1,127 @@
+https://www.montgomerychamber.com/events
+https://www.montgomerychamber.com/events/details/century-church-service-08-25-2019-6893
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/stratice-soiree-7474
+[<Selector xpath='a/text()' data='Stratice Soiree'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-stratice-llc-7478
+[<Selector xpath='a/text()' data='Ribbon Cutting - Stratice, LLC'>]
+https://www.montgomerychamber.com/events/details/end-the-year-in-good-legal-standing-score-webinar-7461
+[<Selector xpath='a/text()' data='End the Year in Good Legal Standing-S...'>]
+https://www.montgomerychamber.com/events/details/family-finances-08-27-2019-5849
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/how-to-remember-just-about-anything-7463
+[<Selector xpath='a/text()' data='How to Remember Just about Anything!'>]
+https://www.montgomerychamber.com/events/details/auburn-montgomery-part-time-job-fair-7466
+[<Selector xpath='a/text()' data='Auburn Montgomery Part - Time Job Fair'>]
+https://www.montgomerychamber.com/events/details/a-practical-approach-to-small-business-budgeting-score-webinar-7462
+[<Selector xpath='a/text()' data='A Practical Approach to Small Busines...'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-girl-scouts-of-southern-alabama-7384
+[<Selector xpath='a/text()' data='Ribbon Cutting - Girl Scouts of South...'>]
+https://www.montgomerychamber.com/events/details/century-church-service-09-01-2019-6894
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/eggs-and-issues-with-senator-doug-jones-6222
+[<Selector xpath='a/text()' data='Eggs and Issues with Senator Doug Jones '>]
+https://www.montgomerychamber.com/events/details/family-finances-09-03-2019-5850
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7492
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/60-minute-coffee-6462
+[<Selector xpath='a/text()' data='60 MINUTE COFFEE'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-elite-athletic-academy-success-unlimited-academy-7483
+[<Selector xpath='a/text()' data='Ribbon Cutting - Elite Athletic Acade...'>]
+https://www.montgomerychamber.com/events/details/what-small-businesses-need-to-know-about-cyber-security-score-webinar-7468
+[<Selector xpath='a/text()' data='What Small Businesses Need to Know Ab...'>]
+https://www.montgomerychamber.com/events/details/river-region-defense-summit-not-complete-7393
+[<Selector xpath='a/text()' data='River Region Defense Summit '>]
+https://www.montgomerychamber.com/events/details/shrm-cp-scp-exam-prep-7427
+[<Selector xpath='a/text()' data='SHRM CP/SCP Exam Prep'>]
+https://www.montgomerychamber.com/events/details/family-finances-09-07-2019-5691
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/century-church-service-09-08-2019-6895
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/washington-d-c-fly-in-6450
+[<Selector xpath='a/text()' data='Washington D.C. Fly-In'>]
+https://www.montgomerychamber.com/events/details/the-soul-of-clay-and-fire-exhibition-7499
+[<Selector xpath='a/text()' data='The Soul of Clay and Fire Exhibition'>]
+https://www.montgomerychamber.com/events/details/family-finances-09-10-2019-5851
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-7421
+[<Selector xpath='a/text()' data='2019 BizTalk MGM - Radio Talk Show'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7493
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/brantwood-children-s-home-golf-tournament-7477
+[<Selector xpath='a/text()' data="Brantwood Children's Home - Golf Tour...">]
+https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-7484
+[<Selector xpath='a/text()' data='Chamber ROI: MAXIMIZE Your Investment...'>]
+https://www.montgomerychamber.com/events/details/century-church-service-09-15-2019-6896
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/business-101-start-it-up-09-17-2019-1725
+[<Selector xpath='a/text()' data='Business 101: Start It Up'>]
+https://www.montgomerychamber.com/events/details/family-finances-09-17-2019-5852
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7494
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-grand-opening-raymond-james-financial-inc-7465
+[<Selector xpath='a/text()' data='Ribbon Cutting/Grand Opening - Raymon...'>]
+https://www.montgomerychamber.com/events/details/improve-your-consulting-business-with-a-quality-management-system-score-webinar-7469
+[<Selector xpath='a/text()' data='Improve Your Consulting Business with...'>]
+https://www.montgomerychamber.com/events/details/business-after-hours-09-19-2019-6824
+[<Selector xpath='a/text()' data='BUSINESS AFTER HOURS'>]
+https://www.montgomerychamber.com/events/details/century-church-service-09-22-2019-6897
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/funding-options-for-veteran-entrepreneurs-score-webinar-7470
+[<Selector xpath='a/text()' data='Funding Options for Veteran Entrepren...'>]
+https://www.montgomerychamber.com/events/details/family-finances-09-24-2019-5853
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-09-24-2019-7495
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/leadership-montgomery-unity-award-breakfast-7472
+[<Selector xpath='a/text()' data='Leadership Montgomery Unity Award Bre...'>]
+https://www.montgomerychamber.com/events/details/small-business-symposium-7467
+[<Selector xpath='a/text()' data='Small Business Symposium'>]
+https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-09-26-2019-7485
+[<Selector xpath='a/text()' data='Chamber ROI: MAXIMIZE Your Investment...'>]
+https://www.montgomerychamber.com/events/details/century-church-service-09-29-2019-6898
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/family-finances-10-01-2019-5854
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-01-2019-7496
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/60-minute-coffee-6463
+[<Selector xpath='a/text()' data='60 MINUTE COFFEE'>]
+https://www.montgomerychamber.com/events/details/family-finances-10-05-2019-5692
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/century-church-service-10-06-2019-6899
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/family-finances-10-08-2019-5855
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-10-08-2019-6774
+[<Selector xpath='a/text()' data='2019 BizTalk MGM - Radio Talk Show'>]
+https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-08-2019-7497
+[<Selector xpath='a/text()' data='Start Up U: Gain Customers and Grow Y...'>]
+https://www.montgomerychamber.com/events/details/the-real-elevator-pitch-competition-6833
+[<Selector xpath='a/text()' data='The REAL Elevator Pitch Competition '>]
+https://www.montgomerychamber.com/events/details/live2lead-montgomery-2019-7479
+[<Selector xpath='a/text()' data='LIVE2LEAD Montgomery 2019'>]
+https://www.montgomerychamber.com/events/details/century-church-service-10-13-2019-6900
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/business-101-start-it-up-10-15-2019-1726
+[<Selector xpath='a/text()' data='Business 101: Start It Up'>]
+https://www.montgomerychamber.com/events/details/conversations-roundtables-for-professional-women-7471
+[<Selector xpath='a/text()' data='Conversations: Roundtables for Profes...'>]
+https://www.montgomerychamber.com/events/details/family-finances-10-15-2019-5856
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/max4kids-20th-annual-charity-golf-tournament-7395
+[<Selector xpath='a/text()' data='MAX4Kids 20th Annual Charity Golf Tou...'>]
+https://www.montgomerychamber.com/events/details/business-essentials-for-state-taxpayers-seminar-7378
+[<Selector xpath='a/text()' data='Business Essentials for State Taxpaye...'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-elevate-5050-7481
+[<Selector xpath='a/text()' data='Ribbon Cutting - Elevate 5050'>]
+https://www.montgomerychamber.com/events/details/century-church-service-10-20-2019-6901
+[<Selector xpath='a/text()' data='Century Church Service'>]
+https://www.montgomerychamber.com/events/details/family-finances-10-22-2019-5857
+[<Selector xpath='a/text()' data='Family Finances'>]
+https://www.montgomerychamber.com/events/details/ribbon-cutting-workable-solutions-investigation-protective-services-llc-7277
+[<Selector xpath='a/text()' data='Ribbon Cutting - Workable Solutions I...'>]
+https://www.montgomerychamber.com/events/details/business-after-hours-10-24-2019-6825
+[<Selector xpath='a/text()' data='BUSINESS AFTER HOURS'>]
