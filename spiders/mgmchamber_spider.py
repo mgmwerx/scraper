@@ -7,7 +7,7 @@ from scrapy.spiders import CrawlSpider, Rule
 class MgmchamberSpiderSpider(CrawlSpider):
     name = 'mgmchamber-spider'
     allowed_domains = ['montgomerychamber.com']
-    start_urls = ['http://montgomerychamber.com/']
+    start_urls = ['https://montgomerychamber.com/events']
 
     rules = (
         Rule(LinkExtractor(allow=r'Items/'), callback='parse_item', follow=True),
