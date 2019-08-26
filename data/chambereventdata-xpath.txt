@@ -1,0 +1,29 @@
+<div itemscope="itemscope" itemtype="http://schema.org/Event" id="mn-event6824" class="mn-listing mn-listingevent mn-event-catg6">
+    <meta itemprop="eventStatus" content="EventScheduled">
+    <div class="mn-listingcontent">
+	    <div class="mn-title" itemprop="name">
+            <a itemprop="url" href="https://www.montgomerychamber.com/events/details/business-after-hours-09-19-2019-6824">BUSINESS AFTER HOURS</a>
+	    </div>
+	    <div class="mn-date">
+			<div class="mn-dateday">
+			<span itemprop="startDate" content="2019-09-19T16:00">Thursday Sep 19, 2019</span>
+                        <meta itemprop="endDate" content="2019-09-19T18:00">
+			</div>
+	    </div>
+	    <div class="mn-listingcontent-innercontainer">
+            <div class="mn-image mn-image-empty"></div>
+            <div itemprop="description" class="mn-desc">
+                September Business After Hours
+                <span class="mn-read-more">...</span>&nbsp;<a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-after-hours-09-19-2019-6824" rel="nofollow">read more</a>
+            </div>
+            <div class="mn-category">Categories: Chamber Of Commerce</div>
+	    	    </div>
+	    <div class="mn-clear"></div>
+	</div>
+</div>
+
+response.xpath('//div[@itemscope]/div/div/a/@href')  = URL
+response.xpath('//div[@itemscope]/div/div/a/text()')  =  September Business After Hours
+response.xpath('//div[@itemscope]/div/div[@class="mn-date"]/div/span/@content') = 2019-10-24T16:00
+response.xpath('//div[@itemscope]/div/div[@class="mn-date"]/div/meta/@content') = 2019-10-24T18:00
+response.xpath('//div[@itemscope]/div/div/div[@class="mn-category"]/text()') = Categories: Chamber Of Commerce
