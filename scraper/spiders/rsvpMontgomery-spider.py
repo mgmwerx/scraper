@@ -1,14 +1,30 @@
 from bs4 import BeautifulSoup
+from datetime import date
+from datetime import datetime
 import scrapy
+from scraper.items import ScraperItem
 
 class rsvpMontgomeryHelper():
     # Given a date and time IN THE SPECIFIC FORMAT USED BY RSVP MONTGOMERY,
     # return a standard date/time for start and end of the event.
-    # NOT WORKING YET
-    def fix(date, time):
-        starts_at = date + " WRONG"
-        ends_at = time + " WRONG"
-        return starts_at, ends_at
+    # TIME NOT WORKING -- too much variety in the original source (9 am, 8 a.m., 5, 5pm,
+    # various free text, etc...)
+    def fix(uglyDate, uglyTime):
+        startsAtDate = date.today()
+        endAtDate = date.today()
+        uglyDate = uglyDate + " " + str(date.today().year)
+        uglyDate = uglyDate.replace("st", "")
+        uglyDate = uglyDate.replace("nd", "")
+        uglyDate = uglyDate.replace("rd", "")
+        uglyDate = uglyDate.replace("th", "")
+        try:
+            startsAtDate = datetime.strptime(uglyDate, '%b %d %Y')
+            endsAtDate = datetime.strptime(uglyDate, '%b %d %Y')
+        except ValueError:
+            return startsAtDate.strftime('%Y-%m-%dT%H:%M'), endsAtDate.strftime('%Y-%m-%dT%H:%M')
+        startsAt = startsAtDate.strftime('%Y-%m-%dT%H:%M')
+        endsAt = endsAtDate.strftime('%Y-%m-%dT%H:%M')
+        return startsAt, endsAt
 
 class rsvpMontgomerySpider(scrapy.Spider):
     name = "rsvpMontgomery-spider"
@@ -46,7 +62,9 @@ class rsvpMontgomerySpider(scrapy.Spider):
             # Get "starts at" and "ends at" values from the date and time
             item['starts_at'], item['ends_at'] = rsvpMontgomeryHelper.fix(dateTimeLocation[0], dateTimeLocation[1])
             item['location_name'] = dateTimeLocation[2]
-            item['description'] = paragraphs[2].string
+            # Add time to the front of the description because of the difficulty parsing it--
+            # the user can read and interpret themselves.
+            item['description'] = "TIME: " + dateTimeLocation[1] + " -- " + paragraphs[2].string
             #print("======= ITEM START ===========")
             #print(item)
             #print("======= ITEM END   ===========")
