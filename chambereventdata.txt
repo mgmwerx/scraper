@@ -1,0 +1,3679 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html dir="ltr" lang="en-US" class="ie6"> <![endif]--><!--[if IE 7]>    <html dir="ltr" lang="en-US" class="ie7"> <![endif]--><!--[if IE 8]>    <html dir="ltr" lang="en-US" class="ie8"> <![endif]--><!--[if gt IE 8]><!--><html dir="ltr" lang="en-US"> <!--<![endif]-->
+<!-- BEGIN head -->
+<head>
+<!-- start injected HTML (CCID=3128) -->
+<!-- page template: http://www.montgomerychamber.com/PublicLayout -->
+<meta content="Montgomery Area Chamber of Commerce - AL,Montgomery,events,calendar,events calendar,upcoming events,featured events,regional events" name="keywords"/>
+<meta content="Montgomery Area Chamber of Commerce - AL is the best place to find an event in the Montgomery Alabama area." name="description"/>
+<link href="https://www.montgomerychamber.com/integration/customerdefinedcss?_=TOfQhQ2" rel="stylesheet" type="text/css"/>
+<!-- link for rss not inserted -->
+<link href="https://www.montgomerychamber.com/events" rel="canonical"/>
+<!-- end injected HTML -->
+<!--Meta Tags-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<!--Title-->
+<title>Events Calendar - Montgomery Area Chamber of Commerce - AL, ALABAMA</title>
+<!--Favicon-->
+<link href="https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/Logo/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<!-- Begin Styles -->
+<!-- Page Header -->
+<script type="text/javascript">
+        var BASE_URL = "//www.montgomerychamber.com/";
+        var CMS = CMS || {};
+        CMS.Warnings = CMS.Warnings || {};
+        CMS.Defaults = CMS.Defaults || {};
+    </script>
+<link href="/Content/bundles/cms-public-styles?v=SL39-W8NzIPaeewhLeI8oacpq0WRmZ3vZj4oZ0C65LA1" rel="stylesheet"/>
+<script src="/Content/bundles/cms-public-header-scripts?v=n8hQi0d12UKAM82td1xRFd6N5vUqrzYEC2vHT_LeZuY1"></script>
+<script type="text/javascript">
+        CMS.jQuery = jQuery.noConflict(true);
+    </script>
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700,500" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!-- ===== Base Template Styles ===== -->
+<link class="cms-style" href="/services/override/270" rel="stylesheet"/>
+<!-- ===== IE9 Edit Mode Fix ===== -->
+<!--[if IE]>
+    <style>
+        .cms-edit-mode i.fa.fa-plus.add-cms-content.pull-right.clickable {
+            margin-left: 15px;
+        }
+    </style>
+    <![endif]-->
+<link href="//www.montgomerychamber.com/css/default" id="theme-style" media="all" rel="stylesheet" type="text/css"/>
+<!-- Site Header -->
+<!-- header data -->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet"/>
+<style>
+/**
+ * @license
+ * MyFonts Webfont Build ID 3509706, 2018-01-12T09:12:39-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BauerBodoniStd-Black by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/bauer-bodoni/black/
+ * Copyright: Copyright &#x00A9; 1989, 2002 Adobe Systems Incorporated.  All Rights Reserved.
+ * Licensed pageviews: 250,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3509706
+ * 
+ * © 2018 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/358dca");
+
+  
+@font-face {
+	font-family: 'BauerBodoniStd-Black';
+	src: url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.eot');
+	src: url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.eot?#iefix') format('embedded-opentype'),url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.woff2') format('woff2'),url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.woff') format('woff'),url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.ttf') format('truetype'),url('https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/fonts/358DCA_0_0.svg#wf') format('svg');}
+   
+.inside-content {padding: 40px 0;} 
+[pageareaid="Header Image"] .cms-image-widget {margin-bottom: 0;}  
+.cityscape {width:100%;margin:-10px auto;text-align:center;} 
+.cityscape svg {max-width:400px;}  
+.hero-area .videoWrapper {
+    margin: -13% 0 -17%;
+} 
+.inside-content {padding: 40px 0;} 
+[pageareaid="Global Header Image"] .cms-image-widget {margin-bottom: 0;}  
+.cityscape {width:100%;margin:-10px auto;text-align:center;} 
+.cityscape svg {max-width:400px;}  
+.hero-area .videoWrapper {
+    margin: -13% 0 -17%;
+} 
+.cms-edit-mode .hero-area .videoWrapper {
+    margin: auto;
+} 
+/*--upcoming events box styling--*/
+.mn-scroll-container {
+  margin:0;
+}
+.events-widget {
+    width: 100%;
+}
+.events-button {
+    width: 100%;
+    background-color: #1990CF;
+    height: 200px;
+}
+  .events-button a {
+    color: #fff;
+    height: 200px;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+}
+#mni-widgets-1494859299011 .mn-scroll-container {
+    height: 1000px;
+}
+#mni-widgets-1494859299011 .mn-scroll-item {
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    background-clip: padding-box;
+    background-color: #ebebeb;
+    border-radius: 0;
+    color: #222;
+    margin: 0;
+    width: 100%;
+    height: 200px;
+    padding: 15px;
+    display: block;
+    float: left;
+    position: relative;
+    border: 1px solid #aabac5;
+}
+  .mn-scroll-date {
+    font-size: 52px;
+    font-family: 'Roboto Slab', serif;
+    color: rgba(0, 174, 241, 0.3)!important;
+}
+.mn-scroll-link {
+    color: #1e3754!important;
+}
+@media (min-width: 768px) {
+  .cms-search.cms-search-primary .cms-search-holder {
+  background-color:#00AEEF;
+  border-radius: 0 0 10px 10px;
+  color: #ffffff;
+  opacity:1;
+}  
+#mni-widgets-1494859299011 .mn-scroll-item {
+    width: 50%;
+}
+#mni-widgets-1494859299011 .mn-scroll-container {
+    height: 600px;
+}
+}
+@media (min-width: 992px) {
+.events-widget {
+    width: 90%;
+    padding-right: 0;
+}
+.events-button {
+    width: 10%;
+    height: 250px;
+}
+#mni-widgets-1494859299011 .mn-scroll-container {
+    height: 250px;
+}
+#mni-widgets-1494859299011 .mn-scroll-item {
+    width: 20%;
+    height: 250px;
+}
+}
+  
+/*--menu--*/
+@media (min-width: 992px) {
+.bottom-navigation .cms-bootstrap-menu.navbar-nav>li {
+    float: none;
+    display: inline-block;
+}
+.bottom-navigation .cms-bootstrap-menu.navbar-nav {
+    float: none;
+    text-align: center;
+}
+}
+.picture-tiles {
+    background-color: #ffffff;
+}
+  
+/*-- tile overrides--*/
+[pagelayout="Home"] [pageareaid="11"] .cms-content .cms-flexslider .flex-caption,
+[pagelayout="Home"] [pageareaid="12"] .cms-content .cms-flexslider .flex-caption{
+    text-align: center;
+}
+[pagelayout="Home"] [pageareaid="11"] .cms-content .cms-flexslider .caption-wrapper,
+  [pagelayout="Home"] [pageareaid="12"] .cms-content .cms-flexslider .caption-wrapper{
+width:100%;
+pointer-events: none;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='your_transparent.png', sizingMethod='scale');
+background: none !important;
+}
+/* --Begin Scroller Fix-- */
+.page-area[pageareaid="Sponsor Area"] .js-marquee .mn-ad {
+	display: block;
+}
+.page-area[pageareaid="Sponsor Area"] .js-marquee .mn-ad, .page-area[pageareaid="Sponsor Area"] .js-marquee .mn-ad a {
+	height: auto;
+	left: auto;
+	position: relative;
+	top: auto;
+	width: auto;
+}
+/* --sponsor marquee styles --*/
+.page-area[pageareaid="Sponsor Area"] .mn-ad-image {
+	margin-right:10px;float:left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.page-area[pageareaid="Sponsor Area"] .mn-ads-loaded {
+	width: 100%;
+	overflow: hidden;
+	padding: 0px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+/*text overlay on slider*/
+.hero-area p {
+    background-color: #1f3653;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-size: 28px;
+    margin: 0;
+    padding: 15px;
+    z-index:1;
+}
+@media (min-width:600px){
+    .hero-area p {
+    position: absolute;
+    background-color:transparent;
+    color: #fff;
+    font-size: 30px;
+    top: 80px; 
+}
+}
+@media (min-width:800px){
+    .hero-area p {
+    font-size: 50px;
+    top: 100px; 
+}
+}
+@media (min-width:1100px){
+    .hero-area p {
+    font-size: 55px;
+    top: 150px; 
+}
+}  
+
+  @media (min-width: 992px) {
+     .smaller #bottom-navigation-t #cm-cms-menu {
+    position: relative;
+    right: 50px;
+}
+  }
+@media (max-width: 1200px) {
+	.cms-search .form-group input[type="text"]:focus {
+		width: 450px;
+	}
+}
+@media (min-width: 1200px) {
+	.cms-search .form-group input[type="text"]:focus {
+		width: 540px;
+	}
+  .cms-search .cms-search-holder {
+  top:-8px;padding:0;
+  }
+    .cms-search.cms-search-primary .cms-search-holder {
+  background-color: transparent;
+  }
+  .cms-search .form-group input[type="text"] {
+    right: 5px;
+    top: -15px;
+}  
+   #top-navigation {
+   padding-right: 45px;
+    }
+  .smaller #top-navigation {
+   padding-right: 15px;
+    }
+
+  }
+/*for countdown*/
+  #countdown {
+margin-bottom: 10px;
+color: #1e3754;
+    text-align:right;
+}
+#countdown span b {
+color:rgba(0, 174, 241, 0.57);
+}
+#countdown span {
+margin-left:10px
+}  
+  
+/*--menu dropdown--*/
+  @media (min-width:768px) {
+.smaller #bottom-navigation-t .dropdown-menu {
+    width:750px;
+    right:3px;
+}
+.smaller #bottom-navigation-t .dropdown-menu a {
+    color:#fff;
+}
+.smaller #bottom-navigation-t .dropdown-menu p {
+    color:#2c4d65;
+}
+}
+@media (min-width:992px) {
+.smaller #bottom-navigation-t .dropdown-menu {
+   margin-top: 40px;
+}   
+}
+@media (min-width:1050px) {
+.smaller #bottom-navigation-t .dropdown-menu {
+    width:992px;
+    margin-top:80px;
+}
+.smaller #bottom-navigation-t .yamm .col-sm-3.list-unstyled {
+    width: 310px;
+}
+}
+  .panel .cms-nav {
+    padding-bottom: 0;
+  }
+  .panel .top-menu > .cms-nav > .cms-nav-menu-title {
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    /*font-size:23px*/
+}
+/*.panel .top-menu > .cms-nav > .cms-nav-menu > .cms-nav .cms-nav-menu-title {
+    font-size:20px;
+}*/
+.yamm a:hover {
+    color: #ddf6ff;
+}
+ /*search*/
+.cms-search a {color: #0582b0;} 
+@media (min-width: 992px) {
+.cms-search .cms-search-results {
+    min-width: 400px;
+    right: 0;
+    margin-top: 25px;
+}
+}  
+@media (max-width: 991px) {
+.cms-search .form-group input[type="text"]:focus {
+width: 100%;
+}
+.cms-search.cms-search-primary .cms-search-holder {
+background-color: transparent;
+color: #00aeef;
+}
+}  
+</style> <!-- End Styles -->
+<script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-42957643-2', 'auto');
+            ga('send', 'pageview');
+        </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/globalize/0.1.1/globalize.min.js" type="text/javascript"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/globalize/0.1.1/cultures/globalize.culture.en-US.js" type="text/javascript"></script>
+<script type="text/javascript">
+        var MNI = MNI || {};
+        MNI.CurrentCulture = 'en-US';
+        MNI.CultureDateFormat = 'M/d/yyyy';
+        MNI.BaseUrl = 'https://www.montgomerychamber.com';
+        MNI.jQuery = jQuery.noConflict(true);
+        MNI.Page = {
+            Domain: 'www.montgomerychamber.com',
+            Context: 202,
+            Category: null,
+            Member: null,
+            MemberPagePopup: true
+        };
+    </script>
+<script src="https://www.montgomerychamber.com/Content/bundles/MNI?v=hlNSF8YgbA3QexBNdKqAUG-jusWTA_DM5FpyCLWTc1I1"></script>
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/themes/base/jquery-ui.css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+        MNI.jQuery(function ($) {
+            if (0 > 0)
+            {
+                $('#mn-events #mn-events-searchresults').prepend('<div id="events-key"></div>');
+            }
+        });
+    </script>
+<meta content="origin" name="referrer"/></head>
+<!-- Begin body -->
+<body class="cmsbackground">
+<div id="page-layout" pageid="56291" pagelayout="No Sidebar No Global">
+<div class="wrapper">
+<header>
+<div class="container-fluid">
+<div class="row call-to-action">
+<div class="col-md-12">
+<div class="page-area global" pageareaid="Global1">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="390261" contenttypeid="6" order="0" pageareaid="Global1">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-390261">
+<h4 style="text-align: right;">  <img alt="" src="https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/Countdown_images/2019-TRC-Web-Countdown-Banner.png" style="width: 1013px; height: 141px; float: left; margin-bottom: 10px; margin-left: 14px; margin-right: 14px;"/><br/>
+<br/>
+<br/>
+Countdown to the 2019 Total Resource Campaign:</h4>
+<div id="countdown">
+<p style="text-align: right;"> </p>
+</div>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+<div class="page-area local" pageareaid="1">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Global2">
+<ul class="cms-widgets">
+</ul>
+</div>
+<div class="page-area local" pageareaid="2">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Global3">
+<ul class="cms-widgets">
+</ul>
+</div>
+<div class="page-area local" pageareaid="3">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Global4">
+<ul class="cms-widgets">
+</ul>
+</div>
+<div class="page-area local" pageareaid="4">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row top-navigation">
+<div class="logo">
+<div class="page-area global" pageareaid="Head 0">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="313068" contenttypeid="6" order="0" pageareaid="Head 0">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-313068">
+<p><a href="/"><img alt="" src="https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/Logo/New-M---reverse.png" style="width: 50%;"/></a></p>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="for-smaller-header">
+<nav class="navbar navbar-default color1 hidden-xs hidden-sm" role="navigation">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#bottom-navigation-t" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
+<span class="icon-bar"></span> <span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="bottom-navigation-t">
+<div id="cm-cms-menu">
+<ul class="nav navbar-nav yamm basic-mega cms-bootstrap-menu" menu-id="3882">
+<li class="dropdown" navigation-id="116925">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Living in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>About MGM</strong></p>
+</li>
+<li><a href="/living-and-income" target="_self">Living and Income</a></li>
+<li><a href="/relocate" target="_self">Relocate</a></li>
+<li><a href="/education" target="_self">Education</a></li>
+<li><a href="/population-and-community" target="_self">Population and Community</a></li>
+<li><a href="/give-back" target="_self">GiveBack</a></li>
+<li><a href="/transportation" target="_self">Transportation</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Experience MGM</strong></p>
+</li>
+<li><a href="/experience-mgm" target="_self">Destination MGM</a></li>
+<li><a href="/restaurants-and-nightlife" target="_self">Restaurants and Nightlife</a></li>
+<li><a href="/downtown-revitalization" target="_self">Downtown Revitalization</a></li>
+<li><a href="/parks-green-space" target="_self">Parks &amp; Green Space</a></li>
+<li><a href="/whats-cool-calendar-email" target="_self">What's Cool Calendar &amp; Email</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Public Safety Initiatives</strong></p>
+</li>
+<li><a href="/star-watch-program" target="_self">STAR Watch Program</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116927">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Growing Business in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Chamber Initiatives</strong></p>
+</li>
+<li><a href="/chamber-initiatives" target="_self">Areas of Focus</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Key Industries</strong></p>
+</li>
+<li><a href="/military-dod" target="_self">Military &amp; DOD</a></li>
+<li><a href="/manufacturing" target="_self">Advanced Manufacturing</a></li>
+<li><a href="/cyber-tech" target="_self">Cyber &amp; Tech</a></li>
+<li><a href="/medical" target="_self">Medical</a></li>
+<li><a href="/auto" target="_self">Automotive</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Military</strong></p>
+</li>
+<li><a href="/history-impact-of-maxwell-gunter-afb" target="_self">History &amp; Impact of Maxwell-Gunter AFB</a></li>
+<li><a href="/guard-reserve" target="_self">Guard &amp; Reserve</a></li>
+<li><a href="/initiatives/strategies" target="_self">Initiatives &amp; Strategies</a></li>
+<li><a href="/key-players/partners" target="_self">Key Players &amp; Partners</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Advocating for Business</strong></p>
+</li>
+<li><a href="/legislative-agenda" target="_self">State Legislative Agenda</a></li>
+<li><a href="/local-state-and-federal-elected-offcials" target="_self">Local Elected Officials</a></li>
+</ul>
+</div>
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Entrepreneurs &amp; Start-Ups</strong></p>
+</li>
+<li><a href="/small-business-development" target="_self">Small Business Development</a></li>
+<li><a href="/entrepreneurs-toolkit" target="_self">Entrepreneur's Toolkit</a></li>
+<li><a href="/learn" target="_self">Learn</a></li>
+<li><a href="/connect" target="_self">Connect</a></li>
+<li><a href="/grow" target="_self">Grow</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Membership</strong></p>
+</li>
+<li><a href="/value-benefits" target="_self">Value &amp; Benefits</a></li>
+<li><a href="/member/newmemberapp/" target="_self">JOIN</a></li>
+<li><a href="/mgm-impact-makers" target="_self">MGM Impact Makers</a></li>
+<li><a href="/login/" target="_self">Member Log In</a></li>
+<li><a href="/member-discount-program" target="_self">Member Discount Program</a></li>
+<li><a href="/ribbon-cuttings" target="_self">Ribbon Cuttings</a></li>
+<li><a href="/ambassador-program" target="_self">Ambassador Program</a></li>
+<li><a href="/trc" target="_self">TRC</a></li>
+<li><a href="/annual-meeting" target="_self">Annual Meeting</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Montgomery Business Journal</strong></p>
+</li>
+<li><a href="/july-2019" target="_self">July 2019</a></li>
+<li><a href="/may-2019" target="_self">May 2019</a></li>
+<li><a href="/march-2019" target="_self">March 2019</a></li>
+<li><a href="/january-2019" target="_self">January 2019</a></li>
+<li><a href="/past-issues" target="_self">Past Issues</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Economic Development</strong></p>
+</li>
+<li><a href="/choosemontgomery" target="_self">Choose Montgomery</a></li>
+<li><a href="/accolades-and-announcements" target="_self">Accolades and Announcements</a></li>
+<li><a href="/business-retention-and-expansion" target="_self">Business Retention and Expansion</a></li>
+<li><a href="/regional-statistics" target="_self">Regional Statistics</a></li>
+<li><a href="/taxes-incentives" target="_self">Taxes &amp; Incentives</a></li>
+<li><a href="/shovel-ready-sites" target="_self">Shovel-Ready Sites</a></li>
+<li><a href="/workforce-talent" target="_self">Workforce Talent</a></li>
+<li><a href="/building-starts-and-permits" target="_self">Building Starts and Permits</a></li>
+<li><a href="/location-transportation" target="_self">Location &amp; Transportation</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+<li><a href="/utilities" target="_self">Utilities</a></li>
+<li><a href="/economic-development-contact-us" target="_self">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116928">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Working in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Workforce Development</strong></p>
+</li>
+<li><a href="/aidt" target="_self">AIDT</a></li>
+<li><a href="/mrwtc" target="_self">MRWTC</a></li>
+<li><a href="/trenholm-state-community-college" target="_self">Trenholm State Community College</a></li>
+<li><a href="/alabama-state-employment-service" target="_self">Alabama State Employment Service</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Local Business Intel</strong></p>
+</li>
+<li><a href="/economic-diversity" target="_self">Economic Diversity</a></li>
+<li><a href="/mgm-employers" target="_self">MGM Employers</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Career Resources</strong></p>
+</li>
+<li><a href="/jobs/" target="_self">Job Board</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="search-icon-two">
+<div class="page-area global" pageareaid="Search">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="317892" contenttypeid="14" order="0" pageareaid="Search">
+<!-- 
+    <span>Search</span>
+ -->
+<div class="cms-design-panel" id="content-317892">
+<script type="text/javascript">
+        (function ($) {
+            $(function () {
+                $('#content-317892 .cms-search').SiteSearch();
+            });
+        })(CMS.jQuery)
+</script>
+<style>
+    #content-317892 .cms-search.cms-search-custom .cms-search-holder {
+        color:#0071bc;
+    }
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:hover {
+        color:#0071bc;
+        border: 1px solid #0071bc;
+    }
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:not(:hover),
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:active {
+        background-color: #0071bc;
+    }
+    #content-317892 .cms-search-results {
+        width:100%;
+    }
+    #content-317892 .cms-search-wrapper {
+        width: 100%;
+    }
+    #content-317892 .cms-search {
+        text-align:center ;
+    }
+    #content-317892 .form-group input.form-control {
+        padding-right:25px;
+    }
+    #content-317892 .cms-pages-results {
+        display:block;
+    }
+    #content-317892 .cms-members-results {
+        display:block;
+    }
+    #content-317892 .cms-category-results {
+        display:block;
+    }
+    #content-317892 .cms-quicklink-results {
+        display:block;
+    }
+    #content-317892 .cms-events-results {
+        display:block;
+    }
+    #content-317892 .cms-search-go {
+        display:none;
+    }
+    #content-317892 .cms-search-holder {
+        display:block;
+    }
+    #content-317892 .search-wrapper {
+        margin-right:auto;
+    }
+</style>
+<div class="cms-content cms-search cms-search-primary" state="none">
+<div class="cms-search-wrapper">
+<div class="form-group">
+<i class="fa fa-search cms-search-holder" title="Search"></i>
+<div class="cms-search-go">Go</div>
+<div class="search-wrapper">
+<input class="form-control" placeholder="Site Search" type="text"/>
+<input class="cms-search-mask" type="hidden" value="31"/>
+<input class="cms-search-limit" type="hidden" value="15"/>
+</div>
+</div>
+<div class="cms-search-results">
+<div class="search-results-wrapper">
+<div class="cms-pages-results">
+<h4><strong>Pages</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-members-results">
+<h4><strong>Members</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-category-results">
+<h4><strong>Categories</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-quicklink-results">
+<h4><strong>Quicklinks</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-events-results">
+<h4><strong>Events</strong></h4>
+<ul></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<nav class="navbar navbar-default color1" role="navigation">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#top-navigation" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
+<span class="icon-bar"></span> <span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="top-navigation">
+<div id="cm-cms-menu">
+<ul class="nav navbar-nav yamm basic-mega cms-bootstrap-menu" menu-id="3879">
+<li class="dropdown" navigation-id="119114">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Calendar<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/events/calendarcatgid/6" target="_self">Chamber Events</a>
+</div>
+<div>
+<a href="/events/calendarcatgid/11" target="_self">Member Events</a>
+</div>
+<div>
+<a href="/events/calendarcatgid/12" target="_self">Non-Profit Events</a>
+</div>
+<div>
+<a href="https://www.montgomerychamber.com/events" target="_blank">Calendar of Events</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116840">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/about-us" target="_self">About<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/chamber-mission-and-initiatives" target="_self">Mission, Initiatives and Priorities</a>
+</div>
+<div>
+<a href="/imagine-a-greater-montgomery" target="_self">Imagine a Greater Montgomery</a>
+</div>
+<div>
+<a href="/board-of-directors" target="_self">Board of Directors</a>
+</div>
+<div>
+<a href="/chairmans-circle" target="_self">Chairman's Circle</a>
+</div>
+<div>
+<a href="/ambassadors" target="_self">Ambassadors</a>
+</div>
+<div>
+<a href="/contact/" target="_self">Contact</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="117788">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/news/" target="_self">News &amp; Media<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/videos" target="_self">Videos</a>
+</div>
+<div>
+<a href="/biztalk-mgm" target="_self">BIZTalk MGM</a>
+</div>
+<div>
+<a href="/blog/press-releases-3604" target="_self">Press Releases</a>
+</div>
+<div>
+<a href="/blog/in-the-news-3568" target="_self">In the News</a>
+</div>
+<div>
+<a href="/july-2019" target="_self">Montgomery Business Journal</a>
+</div>
+<div>
+<a href="/blog/montgomery-business-journal-3603" target="_self">MBJ Blog</a>
+</div>
+<div>
+<a href="/mbj-faq" target="_self">MBJ FAQ</a>
+</div>
+<div>
+<a href="/blog/business-buzz-3606" target="_self">Business Buzz</a>
+</div>
+<div>
+<a href="/blog/members-in-the-news-3608" target="_self">Members in the News</a>
+</div>
+<div>
+<a href="/blog/members-on-the-move-3607" target="_self">Members on the Move</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="119123">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Membership<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/value-benefits" target="_self">Value &amp; Benefits</a>
+</div>
+<div>
+<a href="/member/newmemberapp/" target="_self">JOIN (Member Application)</a>
+</div>
+<div>
+<a href="/mgm-impact-makers" target="_self">MGM Impact Makers</a>
+</div>
+<div>
+<a href="/login/" target="_self">Member Log In</a>
+</div>
+<div>
+<a href="/member-discount-program" target="_self">Member to Member Deals</a>
+</div>
+<div>
+<a href="/ambassador-program" target="_self">Ambassador Program</a>
+</div>
+<div>
+<a href="/new-members" target="_self">New Members</a>
+</div>
+<div>
+<a href="/ribbon-cuttings" target="_self">Ribbon Cuttings</a>
+</div>
+<div>
+<a href="/trc" target="_self">TRC</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116831">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Business Directory<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/list" target="_self">Directory</a>
+</div>
+<div>
+<a href="/membertomember/" target="_self">Member to Member Deals</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="117786">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Investors<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<div class="col-sm-3 list-unstyled">
+<div>
+<a href="/investors" target="_self">Imagine Investors</a>
+</div>
+<div>
+<a href="/legacy" target="_self">Legacy</a>
+</div>
+<div>
+<a href="/sustaining" target="_self">Sustaining</a>
+</div>
+<div>
+<a href="/champion" target="_self">Champion</a>
+</div>
+<div>
+<a href="/leadership" target="_self">Leadership</a>
+</div>
+<div>
+<a href="/partner" target="_self">Partner</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<div class="visible-xs-block visible-sm-block">
+<ul class="nav navbar-nav yamm basic-mega cms-bootstrap-menu" menu-id="3882">
+<li class="dropdown" navigation-id="116925">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Living in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>About MGM</strong></p>
+</li>
+<li><a href="/living-and-income" target="_self">Living and Income</a></li>
+<li><a href="/relocate" target="_self">Relocate</a></li>
+<li><a href="/education" target="_self">Education</a></li>
+<li><a href="/population-and-community" target="_self">Population and Community</a></li>
+<li><a href="/give-back" target="_self">GiveBack</a></li>
+<li><a href="/transportation" target="_self">Transportation</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Experience MGM</strong></p>
+</li>
+<li><a href="/experience-mgm" target="_self">Destination MGM</a></li>
+<li><a href="/restaurants-and-nightlife" target="_self">Restaurants and Nightlife</a></li>
+<li><a href="/downtown-revitalization" target="_self">Downtown Revitalization</a></li>
+<li><a href="/parks-green-space" target="_self">Parks &amp; Green Space</a></li>
+<li><a href="/whats-cool-calendar-email" target="_self">What's Cool Calendar &amp; Email</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Public Safety Initiatives</strong></p>
+</li>
+<li><a href="/star-watch-program" target="_self">STAR Watch Program</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116927">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Growing Business in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Chamber Initiatives</strong></p>
+</li>
+<li><a href="/chamber-initiatives" target="_self">Areas of Focus</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Key Industries</strong></p>
+</li>
+<li><a href="/military-dod" target="_self">Military &amp; DOD</a></li>
+<li><a href="/manufacturing" target="_self">Advanced Manufacturing</a></li>
+<li><a href="/cyber-tech" target="_self">Cyber &amp; Tech</a></li>
+<li><a href="/medical" target="_self">Medical</a></li>
+<li><a href="/auto" target="_self">Automotive</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Military</strong></p>
+</li>
+<li><a href="/history-impact-of-maxwell-gunter-afb" target="_self">History &amp; Impact of Maxwell-Gunter AFB</a></li>
+<li><a href="/guard-reserve" target="_self">Guard &amp; Reserve</a></li>
+<li><a href="/initiatives/strategies" target="_self">Initiatives &amp; Strategies</a></li>
+<li><a href="/key-players/partners" target="_self">Key Players &amp; Partners</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Advocating for Business</strong></p>
+</li>
+<li><a href="/legislative-agenda" target="_self">State Legislative Agenda</a></li>
+<li><a href="/local-state-and-federal-elected-offcials" target="_self">Local Elected Officials</a></li>
+</ul>
+</div>
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Entrepreneurs &amp; Start-Ups</strong></p>
+</li>
+<li><a href="/small-business-development" target="_self">Small Business Development</a></li>
+<li><a href="/entrepreneurs-toolkit" target="_self">Entrepreneur's Toolkit</a></li>
+<li><a href="/learn" target="_self">Learn</a></li>
+<li><a href="/connect" target="_self">Connect</a></li>
+<li><a href="/grow" target="_self">Grow</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Membership</strong></p>
+</li>
+<li><a href="/value-benefits" target="_self">Value &amp; Benefits</a></li>
+<li><a href="/member/newmemberapp/" target="_self">JOIN</a></li>
+<li><a href="/mgm-impact-makers" target="_self">MGM Impact Makers</a></li>
+<li><a href="/login/" target="_self">Member Log In</a></li>
+<li><a href="/member-discount-program" target="_self">Member Discount Program</a></li>
+<li><a href="/ribbon-cuttings" target="_self">Ribbon Cuttings</a></li>
+<li><a href="/ambassador-program" target="_self">Ambassador Program</a></li>
+<li><a href="/trc" target="_self">TRC</a></li>
+<li><a href="/annual-meeting" target="_self">Annual Meeting</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Montgomery Business Journal</strong></p>
+</li>
+<li><a href="/july-2019" target="_self">July 2019</a></li>
+<li><a href="/may-2019" target="_self">May 2019</a></li>
+<li><a href="/march-2019" target="_self">March 2019</a></li>
+<li><a href="/january-2019" target="_self">January 2019</a></li>
+<li><a href="/past-issues" target="_self">Past Issues</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Economic Development</strong></p>
+</li>
+<li><a href="/choosemontgomery" target="_self">Choose Montgomery</a></li>
+<li><a href="/accolades-and-announcements" target="_self">Accolades and Announcements</a></li>
+<li><a href="/business-retention-and-expansion" target="_self">Business Retention and Expansion</a></li>
+<li><a href="/regional-statistics" target="_self">Regional Statistics</a></li>
+<li><a href="/taxes-incentives" target="_self">Taxes &amp; Incentives</a></li>
+<li><a href="/shovel-ready-sites" target="_self">Shovel-Ready Sites</a></li>
+<li><a href="/workforce-talent" target="_self">Workforce Talent</a></li>
+<li><a href="/building-starts-and-permits" target="_self">Building Starts and Permits</a></li>
+<li><a href="/location-transportation" target="_self">Location &amp; Transportation</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+<li><a href="/utilities" target="_self">Utilities</a></li>
+<li><a href="/economic-development-contact-us" target="_self">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116928">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Working in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Workforce Development</strong></p>
+</li>
+<li><a href="/aidt" target="_self">AIDT</a></li>
+<li><a href="/mrwtc" target="_self">MRWTC</a></li>
+<li><a href="/trenholm-state-community-college" target="_self">Trenholm State Community College</a></li>
+<li><a href="/alabama-state-employment-service" target="_self">Alabama State Employment Service</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Local Business Intel</strong></p>
+</li>
+<li><a href="/economic-diversity" target="_self">Economic Diversity</a></li>
+<li><a href="/mgm-employers" target="_self">MGM Employers</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Career Resources</strong></p>
+</li>
+<li><a href="/jobs/" target="_self">Job Board</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>
+<div class="search-icon">
+<div class="page-area global" pageareaid="Search">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="317892" contenttypeid="14" order="0" pageareaid="Search">
+<!-- 
+    <span>Search</span>
+ -->
+<div class="cms-design-panel" id="content-317892">
+<script type="text/javascript">
+        (function ($) {
+            $(function () {
+                $('#content-317892 .cms-search').SiteSearch();
+            });
+        })(CMS.jQuery)
+</script>
+<style>
+    #content-317892 .cms-search.cms-search-custom .cms-search-holder {
+        color:#0071bc;
+    }
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:hover {
+        color:#0071bc;
+        border: 1px solid #0071bc;
+    }
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:not(:hover),
+    #content-317892 .cms-search.cms-search-custom .cms-search-go:active {
+        background-color: #0071bc;
+    }
+    #content-317892 .cms-search-results {
+        width:100%;
+    }
+    #content-317892 .cms-search-wrapper {
+        width: 100%;
+    }
+    #content-317892 .cms-search {
+        text-align:center ;
+    }
+    #content-317892 .form-group input.form-control {
+        padding-right:25px;
+    }
+    #content-317892 .cms-pages-results {
+        display:block;
+    }
+    #content-317892 .cms-members-results {
+        display:block;
+    }
+    #content-317892 .cms-category-results {
+        display:block;
+    }
+    #content-317892 .cms-quicklink-results {
+        display:block;
+    }
+    #content-317892 .cms-events-results {
+        display:block;
+    }
+    #content-317892 .cms-search-go {
+        display:none;
+    }
+    #content-317892 .cms-search-holder {
+        display:block;
+    }
+    #content-317892 .search-wrapper {
+        margin-right:auto;
+    }
+</style>
+<div class="cms-content cms-search cms-search-primary" state="none">
+<div class="cms-search-wrapper">
+<div class="form-group">
+<i class="fa fa-search cms-search-holder" title="Search"></i>
+<div class="cms-search-go">Go</div>
+<div class="search-wrapper">
+<input class="form-control" placeholder="Site Search" type="text"/>
+<input class="cms-search-mask" type="hidden" value="31"/>
+<input class="cms-search-limit" type="hidden" value="15"/>
+</div>
+</div>
+<div class="cms-search-results">
+<div class="search-results-wrapper">
+<div class="cms-pages-results">
+<h4><strong>Pages</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-members-results">
+<h4><strong>Members</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-category-results">
+<h4><strong>Categories</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-quicklink-results">
+<h4><strong>Quicklinks</strong></h4>
+<ul></ul>
+</div>
+<div class="cms-events-results">
+<h4><strong>Events</strong></h4>
+<ul></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<main>
+<div class="row hero-area">
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="Header Image">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="448419" contenttypeid="8" order="0" pageareaid="Header Image">
+<!-- -->
+<div class="cms-image-widget">
+<img alt="new-top-banner-photo.jpg" src="https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/new-top-banner-photo.jpg" style="max-width:100%"/>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="row bottom-navigation color3 hidden-xs">
+<div class="container">
+<nav class="navbar navbar-default color3" role="navigation">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#bottom-navigation" data-toggle="collapse" type="button"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+</div>
+<div class="collapse navbar-collapse" id="bottom-navigation">
+<div id="cm-cms-menu">
+<ul class="nav navbar-nav yamm basic-mega cms-bootstrap-menu" menu-id="3882">
+<li class="dropdown" navigation-id="116925">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Living in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>About MGM</strong></p>
+</li>
+<li><a href="/living-and-income" target="_self">Living and Income</a></li>
+<li><a href="/relocate" target="_self">Relocate</a></li>
+<li><a href="/education" target="_self">Education</a></li>
+<li><a href="/population-and-community" target="_self">Population and Community</a></li>
+<li><a href="/give-back" target="_self">GiveBack</a></li>
+<li><a href="/transportation" target="_self">Transportation</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Experience MGM</strong></p>
+</li>
+<li><a href="/experience-mgm" target="_self">Destination MGM</a></li>
+<li><a href="/restaurants-and-nightlife" target="_self">Restaurants and Nightlife</a></li>
+<li><a href="/downtown-revitalization" target="_self">Downtown Revitalization</a></li>
+<li><a href="/parks-green-space" target="_self">Parks &amp; Green Space</a></li>
+<li><a href="/whats-cool-calendar-email" target="_self">What's Cool Calendar &amp; Email</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Public Safety Initiatives</strong></p>
+</li>
+<li><a href="/star-watch-program" target="_self">STAR Watch Program</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116927">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Growing Business in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Chamber Initiatives</strong></p>
+</li>
+<li><a href="/chamber-initiatives" target="_self">Areas of Focus</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Key Industries</strong></p>
+</li>
+<li><a href="/military-dod" target="_self">Military &amp; DOD</a></li>
+<li><a href="/manufacturing" target="_self">Advanced Manufacturing</a></li>
+<li><a href="/cyber-tech" target="_self">Cyber &amp; Tech</a></li>
+<li><a href="/medical" target="_self">Medical</a></li>
+<li><a href="/auto" target="_self">Automotive</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Military</strong></p>
+</li>
+<li><a href="/history-impact-of-maxwell-gunter-afb" target="_self">History &amp; Impact of Maxwell-Gunter AFB</a></li>
+<li><a href="/guard-reserve" target="_self">Guard &amp; Reserve</a></li>
+<li><a href="/initiatives/strategies" target="_self">Initiatives &amp; Strategies</a></li>
+<li><a href="/key-players/partners" target="_self">Key Players &amp; Partners</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Advocating for Business</strong></p>
+</li>
+<li><a href="/legislative-agenda" target="_self">State Legislative Agenda</a></li>
+<li><a href="/local-state-and-federal-elected-offcials" target="_self">Local Elected Officials</a></li>
+</ul>
+</div>
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Entrepreneurs &amp; Start-Ups</strong></p>
+</li>
+<li><a href="/small-business-development" target="_self">Small Business Development</a></li>
+<li><a href="/entrepreneurs-toolkit" target="_self">Entrepreneur's Toolkit</a></li>
+<li><a href="/learn" target="_self">Learn</a></li>
+<li><a href="/connect" target="_self">Connect</a></li>
+<li><a href="/grow" target="_self">Grow</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Membership</strong></p>
+</li>
+<li><a href="/value-benefits" target="_self">Value &amp; Benefits</a></li>
+<li><a href="/member/newmemberapp/" target="_self">JOIN</a></li>
+<li><a href="/mgm-impact-makers" target="_self">MGM Impact Makers</a></li>
+<li><a href="/login/" target="_self">Member Log In</a></li>
+<li><a href="/member-discount-program" target="_self">Member Discount Program</a></li>
+<li><a href="/ribbon-cuttings" target="_self">Ribbon Cuttings</a></li>
+<li><a href="/ambassador-program" target="_self">Ambassador Program</a></li>
+<li><a href="/trc" target="_self">TRC</a></li>
+<li><a href="/annual-meeting" target="_self">Annual Meeting</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Montgomery Business Journal</strong></p>
+</li>
+<li><a href="/july-2019" target="_self">July 2019</a></li>
+<li><a href="/may-2019" target="_self">May 2019</a></li>
+<li><a href="/march-2019" target="_self">March 2019</a></li>
+<li><a href="/january-2019" target="_self">January 2019</a></li>
+<li><a href="/past-issues" target="_self">Past Issues</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Economic Development</strong></p>
+</li>
+<li><a href="/choosemontgomery" target="_self">Choose Montgomery</a></li>
+<li><a href="/accolades-and-announcements" target="_self">Accolades and Announcements</a></li>
+<li><a href="/business-retention-and-expansion" target="_self">Business Retention and Expansion</a></li>
+<li><a href="/regional-statistics" target="_self">Regional Statistics</a></li>
+<li><a href="/taxes-incentives" target="_self">Taxes &amp; Incentives</a></li>
+<li><a href="/shovel-ready-sites" target="_self">Shovel-Ready Sites</a></li>
+<li><a href="/workforce-talent" target="_self">Workforce Talent</a></li>
+<li><a href="/building-starts-and-permits" target="_self">Building Starts and Permits</a></li>
+<li><a href="/location-transportation" target="_self">Location &amp; Transportation</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+<li><a href="/utilities" target="_self">Utilities</a></li>
+<li><a href="/economic-development-contact-us" target="_self">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown" navigation-id="116928">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" target="_self">Working in MGM<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Workforce Development</strong></p>
+</li>
+<li><a href="/aidt" target="_self">AIDT</a></li>
+<li><a href="/mrwtc" target="_self">MRWTC</a></li>
+<li><a href="/trenholm-state-community-college" target="_self">Trenholm State Community College</a></li>
+<li><a href="/alabama-state-employment-service" target="_self">Alabama State Employment Service</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Local Business Intel</strong></p>
+</li>
+<li><a href="/economic-diversity" target="_self">Economic Diversity</a></li>
+<li><a href="/mgm-employers" target="_self">MGM Employers</a></li>
+<li><a href="/international-business" target="_self">International Business</a></li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<p><strong>Career Resources</strong></p>
+</li>
+<li><a href="/jobs/" target="_self">Job Board</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="inside-content">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area global" pageareaid="Layout Top 0">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="5">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-3">
+<div class="page-area local" pageareaid="6">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-9">
+<div class="page-area local" pageareaid="Main">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="438438" contenttypeid="3" order="0" pageareaid="Main">
+<!-- -->
+<div class="cms-content" id="content-438438">
+<div class="cm-widget-ad">
+<div class="mn-ads" id="content-438438-ads"></div>
+</div>
+<script type="text/javascript">
+            var params = {"alignment":"","context":101,"max":5,"rotate":true,"duration":4500,"WidgetType":5};
+            var _mnisq=_mnisq||[];
+            (function($){
+                $(Object.keys(params)).each(function() {
+                    _mnisq.push(["content-438438."+this, params[this]]);
+                });
+                _mnisq.push(["content-438438.create", "content-438438-ads"]);
+            })(CMS.jQuery);            
+        </script>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+<li class="cms-widget published" contentid="308896" contenttypeid="1" order="1" pageareaid="Main">
+<!-- -->
+<div class="cms-content" id="content-308896">
+<div class="mn-content" id="mn-content">
+<div class="mn-module-content" id="mn-events">
+<div id="mn-events-index">
+<div id="mn-pagetitle">
+<h1>Events Calendar</h1>
+</div>
+<div class="mn-dealsbuttons">
+<span class="mn-m2m" title="Member To Member Deals"><a href="https://www.montgomerychamber.com/MemberToMember/">Member To Member Deals</a></span>
+</div>
+<div class="mn-banner mn-banner-premier"><div id="mn-banner"><noscript><iframe allowtransparency="true" frameborder="0" height="60" marginheight="0" marginwidth="0" scrolling="no" src="https://www.montgomerychamber.com/sponsors/adsframe?context=202&amp;maxWidth=480&amp;maxHeight=60&amp;max=1&amp;rotate=False" width="480"></iframe></noscript></div></div>
+<script type="text/javascript">
+    var _mnisq=_mnisq||[];
+    _mnisq.push(["domain","www.montgomerychamber.com"],["context",202],["max",20],["rotate",1],["maxWidth",480],["maxHeight",60],["create","mn-banner"]);
+    (function(b,d,a,c){b.getElementById(d)||(c=b.getElementsByTagName(a)[0],a=b.createElement(a),a.type="text/javascript",a.async=!0,a.src="https://www.montgomerychamber.com/Content/Script/Ads.min.js",c.parentNode.insertBefore(a,c))})(document,"mni-ads-script","script");
+</script>
+<script type="text/javascript">
+    MNI.Plugins.Calendar.Init();
+    MNI.Plugins.Toggler.Init();
+    MNI.jQuery(function ($) {
+        MNI.Plugins.Toggler.Init();
+        $('#mn-search-location :input').multiselect({
+            header: 'Choose locations below:',
+            noneSelectedText: 'Any Location',
+            selectedList: 4
+        });
+    });
+</script>
+<div class="mn-section mn-filter-section" id="mn-events-search">
+<div class="mn-section-head">
+<span class="mn-section-head-text">Search for Event by:</span>
+</div>
+<div class="mn-section-content">
+<form action="https://www.montgomerychamber.com/events/search" class="mn-form" method="get"> <div class="mn-form-row mn-form-daterange">
+<span class="mn-form-title">Dates:</span>
+<span class="mn-form-combo">
+<label>
+<span class="mn-form-name">From:</span>
+<span class="mn-form-field"><input class="mn-form-text mn-placeholder" name="from" title="From" type="text" value="8/25/2019"/></span>
+<span class="mn-form-picker mn-form-datepicker"><a href="javascript:void(0)" onclick="MNI.Plugins.Calendar.SelectDate(this)" title="Select beginning date">Select</a></span>
+<span class="mn-form-format">M/d/yyyy</span>
+</label>
+<label>
+<span class="mn-form-name">To:</span>
+<span class="mn-form-field"><input class="mn-form-text mn-placeholder" name="to" title="To" type="text" value="10/25/2019"/></span>
+<span class="mn-form-picker mn-form-datepicker"><a href="javascript:void(0)" onclick="MNI.Plugins.Calendar.SelectDate(this)" title="Select ending date">Select</a></span>
+<span class="mn-form-format">M/d/yyyy</span>
+</label>
+</span>
+<span class="mn-form-dateadvance">
+<a href="https://www.montgomerychamber.com/events/search?from=6/25/2019&amp;to=8/24/2019" title="View previous 60 days">«</a>
+<span class="mn-form-dateadvance-text">Change Dates</span>
+<a href="https://www.montgomerychamber.com/events/search?from=10/26/2019&amp;to=12/25/2019" title="View next 60 days">»</a>
+</span>
+</div>
+<input name="isNonStdDateFormat" type="hidden" value="false"/>
+<div class="mn-form-toggler">
+<span><a href="javascript:void(0)" title="Toggle Advanced Search Options">Narrow search by:<span class="mn-toggler-arrow"></span></a></span>
+</div>
+<div class="mn-form-togglable mn-form-togglable-active">
+<div class="mn-form-row" id="mn-search-category">
+<label>
+<span class="mn-form-name">Category:</span>
+<span class="mn-form-field"><select class="mn-form-dropdown" name="c"><option value="">Any Category</option>
+<option value="6">Chamber Of Commerce</option>
+<option value="3">Community</option>
+<option value="13">Diversity &amp; Inclusion</option>
+<option value="11">Member</option>
+<option value="4">Military &amp; Government</option>
+<option value="12">Non-Profit</option>
+<option value="7">Professional Development/Continuing Education</option>
+<option value="14">Small Business</option>
+</select></span>
+</label>
+</div>
+<div class="mn-form-row" id="mn-search-keyword">
+<label>
+<span class="mn-form-name">Keyword:</span>
+<span class="mn-form-field"><input class="mn-form-text mn-placeholder" id="q" name="q" title="Enter Keyword" type="text" value=""/></span>
+</label>
+</div>
+<div class="mn-form-row" id="mn-search-month">
+<label>
+<span class="mn-form-name">Month:</span>
+<span class="mn-form-field">
+<select class="mn-form-dropdown" name="m">
+<option value="">Any Month</option>
+<option value="2019-08-01">2019 - August</option>
+<option value="2019-09-01">2019 - September</option>
+<option value="2019-10-01">2019 - October</option>
+<option value="2019-11-01">2019 - November</option>
+<option value="2019-12-01">2019 - December</option>
+<option value="2020-01-01">2020 - January</option>
+<option value="2020-02-01">2020 - February</option>
+<option value="2020-03-01">2020 - March</option>
+<option value="2020-04-01">2020 - April</option>
+<option value="2020-05-01">2020 - May</option>
+<option value="2020-06-01">2020 - June</option>
+<option value="2020-07-01">2020 - July</option>
+<option value="2020-08-01">2020 - August</option>
+<option value="2020-09-01">2020 - September</option>
+<option value="2020-10-01">2020 - October</option>
+<option value="2020-11-01">2020 - November</option>
+<option value="2020-12-01">2020 - December</option>
+<option value="2021-01-01">2021 - January</option>
+</select>
+</span>
+</label>
+</div>
+</div>
+<input id="mn-search-clientstate" name="st" type="hidden" value="1"/>
+<div class="mn-actions">
+<ul>
+<li class="mn-action-search"><input class="mn-button" title="Search" type="submit" value="Search"/></li>
+</ul>
+</div>
+</form> </div>
+</div>
+<div class="mn-section" id="mn-events-searchresults">
+<div class="mn-section-content mn-results-sort-section">
+<div class="mn-actions">
+<div class="mn-results-found">
+<span class="mn-resultstitle">Results Found:</span>
+<span class="mn-resultscount">63</span>
+<span class="mn-resultsfullcalendar"><a href="https://www.montgomerychamber.com/events/calendar/2019-08-25">View Full Calendar</a></span>
+</div>
+<ul class="mn-sortoptions">
+<li class="mn-sort-disptext">Sort by:</li>
+<li class="mn-actionsortalpha mn-sort-tab">
+<a href="https://www.montgomerychamber.com/events?from=8/25/2019&amp;to=10/25/2019&amp;o=alpha" rel="nofollow">A-Z</a>
+</li>
+<li class="mn-actionsortdate mn-sort-tab">
+<a href="https://www.montgomerychamber.com/events?from=8/25/2019&amp;to=10/25/2019&amp;o=date" rel="nofollow">Date</a>
+</li>
+<li class="mn-sort-print"><a href="https://www.montgomerychamber.com/events?rendermode=print" onclick="return!MNI.Window.Print(this)" rel="nofollow" target="_blank">Print</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-section" id="mn-events-listings">
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6893" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-08-25-2019-6893" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-25T09:00" itemprop="startDate">Sunday Aug 25, 2019</span>
+<meta content="2019-08-25T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-08-25-2019-6893" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-08-25-2019-6893" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg4 mn-event-catg11 mn-event-catg14" id="mn-event7474" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/stratice-soiree-7474" itemprop="url">Stratice Soiree</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-26T08:00" itemprop="startDate">Monday Aug 26, 2019</span>
+<meta content="2019-08-26T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Stratice, a local, women-owned business is hosting an office warming party for our new space within the renovated Kress Building in downtown! Please join us! 
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/stratice-soiree-7474" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Military &amp; Government, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7478" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-stratice-llc-7478" itemprop="url">Ribbon Cutting - Stratice, LLC</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-26T16:30" itemprop="startDate">Monday Aug 26, 2019</span>
+<meta content="2019-08-26T17:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-stratice-llc-7478" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7461" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/end-the-year-in-good-legal-standing-score-webinar-7461" itemprop="url">End the Year in Good Legal Standing-SCORE Webinar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-27T12:00" itemprop="startDate">Tuesday Aug 27, 2019</span>
+<meta content="2019-08-27T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/end-the-year-in-good-legal-standing-score-webinar-7461" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5849" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-08-27-2019-5849" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-27T18:00" itemprop="startDate">Tuesday Aug 27, 2019</span>
+<meta content="2019-08-27T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-08-27-2019-5849" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7463" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/how-to-remember-just-about-anything-7463" itemprop="url">How to Remember Just about Anything!</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-28T08:30" itemprop="startDate">Wednesday Aug 28, 2019</span>
+<meta content="2019-08-28T10:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/how-to-remember-just-about-anything-7463" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg4 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7466" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/auburn-montgomery-part-time-job-fair-7466" itemprop="url">Auburn Montgomery Part - Time Job Fair</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-29T11:00" itemprop="startDate">Thursday Aug 29, 2019</span>
+<meta content="2019-08-29T14:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                AUM Part-Time Job Fair 
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/auburn-montgomery-part-time-job-fair-7466" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Military &amp; Government, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7462" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/a-practical-approach-to-small-business-budgeting-score-webinar-7462" itemprop="url">A Practical Approach to Small Business Budgeting-SCORE Webinar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-29T12:00" itemprop="startDate">Thursday Aug 29, 2019</span>
+<meta content="2019-08-29T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/a-practical-approach-to-small-business-budgeting-score-webinar-7462" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7384" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-girl-scouts-of-southern-alabama-7384" itemprop="url">Ribbon Cutting - Girl Scouts of Southern Alabama</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-08-29T16:00" itemprop="startDate">Thursday Aug 29, 2019</span>
+<meta content="2019-08-29T16:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-girl-scouts-of-southern-alabama-7384" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6894" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-01-2019-6894" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-01T09:00" itemprop="startDate">Sunday Sep 1, 2019</span>
+<meta content="2019-09-01T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-01-2019-6894" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-09-01-2019-6894" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg4 mn-event-catg6" id="mn-event6222" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/eggs-and-issues-with-senator-doug-jones-6222" itemprop="url">Eggs and Issues with Senator Doug Jones </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-03T07:30" itemprop="startDate">Tuesday Sep 3, 2019</span>
+<meta content="2019-09-03T08:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Eggs and Issues with Senator Doug Jones
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/eggs-and-issues-with-senator-doug-jones-6222" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Military &amp; Government, Chamber Of Commerce</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/6222" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent6222">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5850" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-09-03-2019-5850" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-03T18:00" itemprop="startDate">Tuesday Sep 3, 2019</span>
+<meta content="2019-09-03T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-09-03-2019-5850" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7492" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7492" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-03T18:00" itemprop="startDate">Tuesday Sep 3, 2019</span>
+<meta content="2019-09-03T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7492" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6462" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/60-minute-coffee-6462" itemprop="url">60 MINUTE COFFEE</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-04T08:00" itemprop="startDate">Wednesday Sep 4, 2019</span>
+<meta content="2019-09-04T09:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                September Coffee
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/60-minute-coffee-6462" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7483" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-elite-athletic-academy-success-unlimited-academy-7483" itemprop="url">Ribbon Cutting - Elite Athletic Academy (Success Unlimited Academy)</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-05T11:00" itemprop="startDate">Thursday Sep 5, 2019</span>
+<meta content="2019-09-05T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-elite-athletic-academy-success-unlimited-academy-7483" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7468" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/what-small-businesses-need-to-know-about-cyber-security-score-webinar-7468" itemprop="url">What Small Businesses Need to Know About Cyber Security SCORE Webinar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-05T12:00" itemprop="startDate">Thursday Sep 5, 2019</span>
+<meta content="2019-09-05T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/what-small-businesses-need-to-know-about-cyber-security-score-webinar-7468" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg4 mn-event-catg6" id="mn-event7393" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/river-region-defense-summit-not-complete-7393" itemprop="url">River Region Defense Summit </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-06T07:30" itemprop="startDate">Friday Sep 6, 2019</span>
+<meta content="2019-09-06T08:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                River Region Defense Summit 
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/river-region-defense-summit-not-complete-7393" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Military &amp; Government, Chamber Of Commerce</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/7393" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent7393">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg7 mn-event-catg11" id="mn-event7427" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/shrm-cp-scp-exam-prep-7427" itemprop="url">SHRM CP/SCP Exam Prep</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-07T09:00" itemprop="startDate">Saturday Sep 7, 2019</span> -
+						    <span content="2019-10-26T15:00" itemprop="endDate">Saturday Oct 26, 2019</span>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                test prep human resources
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/shrm-cp-scp-exam-prep-7427" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Professional Development/Continuing Education, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5691" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-09-07-2019-5691" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-07T10:00" itemprop="startDate">Saturday Sep 7, 2019</span>
+<meta content="2019-09-07T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-09-07-2019-5691" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6895" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-08-2019-6895" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-08T09:00" itemprop="startDate">Sunday Sep 8, 2019</span>
+<meta content="2019-09-08T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-08-2019-6895" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-09-08-2019-6895" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent" id="mn-event6450" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/washington-d-c-fly-in-6450" itemprop="url">Washington D.C. Fly-In</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-10T00:00" itemprop="startDate">Tuesday Sep 10, 2019</span> -
+						    <span content="2019-09-12T23:59" itemprop="endDate">Thursday Sep 12, 2019</span>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Washington D.C. Fly-In
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/washington-d-c-fly-in-6450" rel="nofollow">read more</a>
+</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/6450" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent6450">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12 mn-event-catg13" id="mn-event7499" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/the-soul-of-clay-and-fire-exhibition-7499" itemprop="url">The Soul of Clay and Fire Exhibition</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-10T00:00" itemprop="startDate">Tuesday Sep 10, 2019</span> -
+						    <span content="2019-09-13T23:59" itemprop="endDate">Friday Sep 13, 2019</span>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Pottery, ceramics, art, korea, AKEEP, Alabama Korea Education and Economic Partnership, montgomery alabama
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/the-soul-of-clay-and-fire-exhibition-7499" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit, Diversity &amp; Inclusion</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5851" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-09-10-2019-5851" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-10T18:00" itemprop="startDate">Tuesday Sep 10, 2019</span>
+<meta content="2019-09-10T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-09-10-2019-5851" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7421" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-7421" itemprop="url">2019 BizTalk MGM - Radio Talk Show</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-10T18:00" itemprop="startDate">Tuesday Sep 10, 2019</span>
+<meta content="2019-09-10T18:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                BizTalk MGM
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-7421" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7493" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7493" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-10T18:00" itemprop="startDate">Tuesday Sep 10, 2019</span>
+<meta content="2019-09-10T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7493" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/7493" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent7493">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event7477" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/brantwood-children-s-home-golf-tournament-7477" itemprop="url">Brantwood Children's Home - Golf Tournament</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-12T12:00" itemprop="startDate">Thursday Sep 12, 2019</span>
+<meta content="2019-09-12T18:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Brantwood will be hosting our annual golf tournament with special guest Tommy Tuberville on Thursday, September 12, 2019 at Robert Trent Jones-Capitol Hill. 
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/brantwood-children-s-home-golf-tournament-7477" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11" id="mn-event7484" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-7484" itemprop="url">Chamber ROI: MAXIMIZE Your Investment for a GREATER Return</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-12T12:00" itemprop="startDate">Thursday Sep 12, 2019</span>
+<meta content="2019-09-12T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-7484" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/7484" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent7484">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6896" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-15-2019-6896" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-15T09:00" itemprop="startDate">Sunday Sep 15, 2019</span>
+<meta content="2019-09-15T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-15-2019-6896" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-09-15-2019-6896" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event1725" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/business-101-start-it-up-09-17-2019-1725" itemprop="url">Business 101: Start It Up</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-17T08:15" itemprop="startDate">Tuesday Sep 17, 2019</span>
+<meta content="2019-09-17T09:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-101-start-it-up-09-17-2019-1725" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5852" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-09-17-2019-5852" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-17T18:00" itemprop="startDate">Tuesday Sep 17, 2019</span>
+<meta content="2019-09-17T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-09-17-2019-5852" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7494" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7494" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-17T18:00" itemprop="startDate">Tuesday Sep 17, 2019</span>
+<meta content="2019-09-17T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-7494" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7465" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-grand-opening-raymond-james-financial-inc-7465" itemprop="url">Ribbon Cutting/Grand Opening - Raymond James Financial, Inc.</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-18T15:30" itemprop="startDate">Wednesday Sep 18, 2019</span>
+<meta content="2019-09-18T16:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-grand-opening-raymond-james-financial-inc-7465" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7469" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/improve-your-consulting-business-with-a-quality-management-system-score-webinar-7469" itemprop="url">Improve Your Consulting Business with a Quality Management System-SCORE Webinar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-19T12:00" itemprop="startDate">Thursday Sep 19, 2019</span>
+<meta content="2019-09-19T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/improve-your-consulting-business-with-a-quality-management-system-score-webinar-7469" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6824" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/business-after-hours-09-19-2019-6824" itemprop="url">BUSINESS AFTER HOURS</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-19T16:00" itemprop="startDate">Thursday Sep 19, 2019</span>
+<meta content="2019-09-19T18:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                September Business After Hours
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-after-hours-09-19-2019-6824" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6897" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-22-2019-6897" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-22T09:00" itemprop="startDate">Sunday Sep 22, 2019</span>
+<meta content="2019-09-22T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-22-2019-6897" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-09-22-2019-6897" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg4 mn-event-catg6 mn-event-catg7 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7470" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/funding-options-for-veteran-entrepreneurs-score-webinar-7470" itemprop="url">Funding Options for Veteran Entrepreneurs-SCORE Webinar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-24T12:00" itemprop="startDate">Tuesday Sep 24, 2019</span>
+<meta content="2019-09-24T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/funding-options-for-veteran-entrepreneurs-score-webinar-7470" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Military &amp; Government, Chamber Of Commerce, Professional Development/Continuing Education, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5853" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-09-24-2019-5853" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-24T18:00" itemprop="startDate">Tuesday Sep 24, 2019</span>
+<meta content="2019-09-24T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-09-24-2019-5853" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7495" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-09-24-2019-7495" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-24T18:00" itemprop="startDate">Tuesday Sep 24, 2019</span>
+<meta content="2019-09-24T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-09-24-2019-7495" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12 mn-event-catg13" id="mn-event7472" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/leadership-montgomery-unity-award-breakfast-7472" itemprop="url">Leadership Montgomery Unity Award Breakfast</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-25T07:30" itemprop="startDate">Wednesday Sep 25, 2019</span>
+<meta content="2019-09-25T09:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/leadership-montgomery-unity-award-breakfast-7472" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/886/events/7472/EVENT_ICON/Unity_Award_Instagram_Image.png"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+                Unity Award Breakfast
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/leadership-montgomery-unity-award-breakfast-7472" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit, Diversity &amp; Inclusion</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7467" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/small-business-symposium-7467" itemprop="url">Small Business Symposium</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-26T12:00" itemprop="startDate">Thursday Sep 26, 2019</span>
+<meta content="2019-09-26T14:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/small-business-symposium-7467" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11" id="mn-event7485" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-09-26-2019-7485" itemprop="url">Chamber ROI: MAXIMIZE Your Investment for a GREATER Return</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-26T12:00" itemprop="startDate">Thursday Sep 26, 2019</span>
+<meta content="2019-09-26T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/chamber-roi-maximize-your-investment-for-a-greater-return-09-26-2019-7485" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member</div>
+<div class="mn-actions mn-eventactions">
+<ul>
+<li class="mn-actionregister"><a href="https://www.montgomerychamber.com/events/register/7485" onclick="return!MNI.Window.RegisterEvent(this)" target="RegisterEvent7485">Register Now</a></li>
+</ul>
+</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6898" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-29-2019-6898" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-09-29T09:00" itemprop="startDate">Sunday Sep 29, 2019</span>
+<meta content="2019-09-29T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-09-29-2019-6898" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-09-29-2019-6898" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5854" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-10-01-2019-5854" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-01T18:00" itemprop="startDate">Tuesday Oct 1, 2019</span>
+<meta content="2019-10-01T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-10-01-2019-5854" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7496" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-01-2019-7496" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-01T18:00" itemprop="startDate">Tuesday Oct 1, 2019</span>
+<meta content="2019-10-01T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-01-2019-7496" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6463" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/60-minute-coffee-6463" itemprop="url">60 MINUTE COFFEE</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-02T08:00" itemprop="startDate">Wednesday Oct 2, 2019</span>
+<meta content="2019-10-02T09:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                October Coffee
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/60-minute-coffee-6463" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5692" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-10-05-2019-5692" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-05T10:00" itemprop="startDate">Saturday Oct 5, 2019</span>
+<meta content="2019-10-05T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-10-05-2019-5692" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6899" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-06-2019-6899" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-06T09:00" itemprop="startDate">Sunday Oct 6, 2019</span>
+<meta content="2019-10-06T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-06-2019-6899" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-10-06-2019-6899" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5855" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-10-08-2019-5855" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-08T18:00" itemprop="startDate">Tuesday Oct 8, 2019</span>
+<meta content="2019-10-08T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-10-08-2019-5855" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6774" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-10-08-2019-6774" itemprop="url">2019 BizTalk MGM - Radio Talk Show</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-08T18:00" itemprop="startDate">Tuesday Oct 8, 2019</span>
+<meta content="2019-10-08T18:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                BizTalk MGM
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/2019-biztalk-mgm-radio-talk-show-10-08-2019-6774" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6 mn-event-catg11 mn-event-catg14" id="mn-event7497" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-08-2019-7497" itemprop="url">Start Up U: Gain Customers and Grow Your Business </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-08T18:00" itemprop="startDate">Tuesday Oct 8, 2019</span>
+<meta content="2019-10-08T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/start-up-u-gain-customers-and-grow-your-business-10-08-2019-7497" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce, Member, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6833" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/the-real-elevator-pitch-competition-6833" itemprop="url">The REAL Elevator Pitch Competition </a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-10T17:30" itemprop="startDate">Thursday Oct 10, 2019</span>
+<meta content="2019-10-10T19:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/the-real-elevator-pitch-competition-6833" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg4 mn-event-catg7 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7479" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/live2lead-montgomery-2019-7479" itemprop="url">LIVE2LEAD Montgomery 2019</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-11T08:00" itemprop="startDate">Friday Oct 11, 2019</span>
+<meta content="2019-10-11T12:05" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                LIVE2LEAD is a half-day event featuring John Maxwell along with a lineup of other world-class leaders. It is hosted live in Atlanta, GA and brought to you via s
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/live2lead-montgomery-2019-7479" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Military &amp; Government, Professional Development/Continuing Education, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6900" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-13-2019-6900" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-13T09:00" itemprop="startDate">Sunday Oct 13, 2019</span>
+<meta content="2019-10-13T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-13-2019-6900" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-10-13-2019-6900" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event1726" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/business-101-start-it-up-10-15-2019-1726" itemprop="url">Business 101: Start It Up</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-15T08:15" itemprop="startDate">Tuesday Oct 15, 2019</span>
+<meta content="2019-10-15T09:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-101-start-it-up-10-15-2019-1726" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg6" id="mn-event7471" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/conversations-roundtables-for-professional-women-7471" itemprop="url">Conversations: Roundtables for Professional Women</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-15T11:00" itemprop="startDate">Tuesday Oct 15, 2019</span>
+<meta content="2019-10-15T13:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Conversations-Roundtables for Professional Women
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/conversations-roundtables-for-professional-women-7471" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5856" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-10-15-2019-5856" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-15T18:00" itemprop="startDate">Tuesday Oct 15, 2019</span>
+<meta content="2019-10-15T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-10-15-2019-5856" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event7395" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/max4kids-20th-annual-charity-golf-tournament-7395" itemprop="url">MAX4Kids 20th Annual Charity Golf Tournament</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-16T07:30" itemprop="startDate">Wednesday Oct 16, 2019</span>
+<meta content="2019-10-16T14:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Charity golf tournament, MAX4Kids
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/max4kids-20th-annual-charity-golf-tournament-7395" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12 mn-event-catg13 mn-event-catg14" id="mn-event7378" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/business-essentials-for-state-taxpayers-seminar-7378" itemprop="url">Business Essentials for State Taxpayers Seminar</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-17T11:00" itemprop="startDate">Thursday Oct 17, 2019</span>
+<meta content="2019-10-17T14:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-essentials-for-state-taxpayers-seminar-7378" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit, Diversity &amp; Inclusion, Small Business</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7481" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-elevate-5050-7481" itemprop="url">Ribbon Cutting - Elevate 5050</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-17T16:00" itemprop="startDate">Thursday Oct 17, 2019</span>
+<meta content="2019-10-17T16:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-elevate-5050-7481" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11 mn-event-catg12" id="mn-event6901" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-20-2019-6901" itemprop="url">Century Church Service</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-20T09:00" itemprop="startDate">Sunday Oct 20, 2019</span>
+<meta content="2019-10-20T11:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image">
+<a href="https://www.montgomerychamber.com/events/details/century-church-service-10-20-2019-6901" rel="nofollow"><img alt="" itemprop="image" src="https://chambermaster.blob.core.windows.net/images/customers/3128/members/9948/events/6865/EVENT_ICON/IMG_1966.JPG"/></a>
+</div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/century-church-service-10-20-2019-6901" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member, Non-Profit</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg3 mn-event-catg11" id="mn-event5857" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/family-finances-10-22-2019-5857" itemprop="url">Family Finances</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-22T18:00" itemprop="startDate">Tuesday Oct 22, 2019</span>
+<meta content="2019-10-22T19:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                Financial Workshop, family finances
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/family-finances-10-22-2019-5857" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Community, Member</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-even">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event7277" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/ribbon-cutting-workable-solutions-investigation-protective-services-llc-7277" itemprop="url">Ribbon Cutting - Workable Solutions Investigation &amp; Protective Services, LLC</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-23T14:00" itemprop="startDate">Wednesday Oct 23, 2019</span>
+<meta content="2019-10-23T14:30" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+<span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/ribbon-cutting-workable-solutions-investigation-protective-services-llc-7277" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+<div class="mn-list-item-odd">
+<div class="mn-listing mn-listingevent mn-event-catg6" id="mn-event6825" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="EventScheduled" itemprop="eventStatus"/>
+<div class="mn-listingcontent">
+<div class="mn-title" itemprop="name">
+<a href="https://www.montgomerychamber.com/events/details/business-after-hours-10-24-2019-6825" itemprop="url">BUSINESS AFTER HOURS</a>
+</div>
+<div class="mn-date">
+<div class="mn-dateday">
+<span content="2019-10-24T16:00" itemprop="startDate">Thursday Oct 24, 2019</span>
+<meta content="2019-10-24T18:00" itemprop="endDate"/>
+</div>
+</div>
+<div class="mn-listingcontent-innercontainer">
+<div class="mn-image mn-image-empty"></div>
+<div class="mn-desc" itemprop="description">
+                October Business After Hours
+                <span class="mn-read-more">...</span> <a class="mn-read-more" href="https://www.montgomerychamber.com/events/details/business-after-hours-10-24-2019-6825" rel="nofollow">read more</a>
+</div>
+<div class="mn-category">Categories: Chamber Of Commerce</div>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="mn-footer-navigation">
+</div>
+<div class="mn-footer-pblogo" id="mn-footer">
+<a href="http://www.growthzone.com/" target="_blank"><img alt="GrowthZone - Membership Management Software" border="0" src="https://public.chambermaster.com/content/images/powbyCM_100x33.png"/></a>
+</div>
+<div class="mn-clear"></div>
+</div>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="7">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="8">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="9">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="10">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<div class="page-area local" pageareaid="11">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="page-area local" pageareaid="12">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="13">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="14">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="15">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area local" pageareaid="16">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="17">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-6 col-md-3">
+<div class="page-area local" pageareaid="18">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-md-3">
+<div class="page-area local" pageareaid="19">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-md-3">
+<div class="page-area local" pageareaid="20">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-md-3">
+<div class="page-area local" pageareaid="21">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="page-area local" pageareaid="Area Bottom">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+<div class="col-xs-12">
+<div class="page-area global" pageareaid="Global Bottom">
+<ul class="cms-widgets">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="footer color2">
+<div class="container-fluid above-footer">
+<div class="row">
+<div class="col-md-12">
+<div class="page-area local" pageareaid="22">
+<ul class="cms-widgets">
+</ul>
+</div>
+<div class="page-area global" pageareaid="Footer Top">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="308913" contenttypeid="6" order="0" pageareaid="Footer Top">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-308913">
+<h3 style="text-align: center;"><span style="font-size:28px;"><strong>BUILD ON</strong></span></h3>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid contact-info">
+<div class="row">
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Footer 0">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="309229" contenttypeid="6" order="0" pageareaid="Footer 0">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-309229">
+<p><strong>Montgomery Area Chamber of Commerce</strong><br/>
+41 Commerce Street, P.O. Box 79<br/>
+Montgomery, Alabama 36101<br/>
+Tel: 334.834.5200   Fax: 334.265.4745</p>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Footer 1">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="312072" contenttypeid="8" order="0" pageareaid="Footer 1">
+<!-- -->
+<div class="cms-image-widget center">
+<a href="/">
+<img alt="MCC_Logo_white.png" src="https://chambermaster.blob.core.windows.net/userfiles/UserFiles/chambers/3128/CMS/Logo/MCC_Logo_white-w180.png" style="max-width:100%"/>
+</a>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+<li class="cms-widget published" contentid="309235" contenttypeid="9" order="1" pageareaid="Footer 1">
+<!-- -->
+<div class="cms-cm-icons">
+<ul class="cms-icon-links fixed icon-links-primary center" count="5" id="content-309235">
+<li class="cms-icon-link">
+<a href="http://www.facebook.com/montgomery.chamber" target='"_blank"'>
+<div class="panel-icon">
+<i class="fa fa-facebook flat-social" title="Icon Link"></i>
+</div>
+</a>
+</li>
+<li class="cms-icon-link">
+<a href="http://www.linkedin.com/company/2699858" target='"_blank"'>
+<div class="panel-icon">
+<i class="fa fa-linkedin flat-social" title="Icon Link"></i>
+</div>
+</a>
+</li>
+<li class="cms-icon-link">
+<a href="http://www.twitter.com/mgmchamber" target='"_blank"'>
+<div class="panel-icon">
+<i class="fa fa-twitter flat-social" title="Icon Link"></i>
+</div>
+</a>
+</li>
+<li class="cms-icon-link">
+<a href="http://www.youtube.com/MGMchamberofcommerce" target='"_blank"'>
+<div class="panel-icon">
+<i class="fa fa-youtube flat-social" title="Icon Link"></i>
+</div>
+</a>
+</li>
+<li class="cms-icon-link">
+<a href="http://plus.google.com/u/0/109271322965273017083/posts" target='"_blank"'>
+<div class="panel-icon">
+<i class="fa fa-google-plus flat-social" title="Icon Link"></i>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="page-area global" pageareaid="Footer 2">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="309232" contenttypeid="6" order="0" pageareaid="Footer 2">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-309232">
+<p style="text-align: right;">Receive the latest announcements and updates.</p>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+<li class="cms-widget published" contentid="309233" contenttypeid="7" order="1" pageareaid="Footer 2">
+<!-- -->
+<div class="cms-custom-links">
+<style>
+                
+                ul#content-309233.sidebar-nav.cms-ghost.sidebar-default.custom .nav-item a {
+                    background-color:RGBA(255, 255, 255, 0);
+                    border-color:#FFFFFF;
+                    color:#FFFFFF;
+                }
+                                ul#content-309233.sidebar-nav.sidebar-default.custom .nav-item a {
+                    background-color:RGBA(255, 255, 255, 0);
+                    border-color:RGBA(255, 255, 255, 0);
+                    color:#FFFFFF;
+                }
+            </style>
+<div class="cms-alignment-wrapper right">
+<ul class="sidebar-nav sidebar-default custom cms-ghost" id="content-309233">
+<li>
+<div class="nav-item">
+<a href="https://www.montgomerychamber.com/form/view/16382">
+<span class="panel-icon">
+<span class="panel-image"><img class="blank" src="https://devchambermaster.blob.core.windows.net/cms/media/icons/add-icon-flat.png"/></span>
+<span>Newsletter Sign-Up</span>
+</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="cityscape">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewbox="0 0 1503.79 465.31" xmlns="http://www.w3.org/2000/svg">
+<title>iStock-499134200 [Converted]</title>
+<g fill="#231f20" opacity=".1">
+<polygon points="1051.1 100.43 980.56 100.43 980.56 238.69 918.62 238.69 918.62 125.02 834.18 125.02 834.18 120.69 788.67 120.69 788.67 0 696.83 0 696.83 210.66 652.39 210.66 652.39 439.05 696.83 439.05 739.47 439.05 762.88 439.05 788.67 439.05 806.44 439.05 834.18 439.05 913.18 439.05 918.62 439.05 980.56 439.05 1025.4 439.05 1051.1 439.05 1109 439.05 1122.4 439.05 1122.4 80.54 1051.1 80.54"></polygon>
+<rect height="361.87" width="108.05" x="1369.8" y="77.18"></rect>
+<polygon points="385.57 141.38 298.48 141.38 298.48 238.69 296.11 238.69 296.11 439.05 298.48 439.05 385.57 439.05 408.29 439.05 408.29 238.69 385.57 238.69"></polygon>
+<polygon points="179.88 177.91 89.71 177.91 89.71 195.78 13.14 195.78 13.14 439.05 89.71 439.05 94.13 439.05 179.88 439.05 179.88 445.57 274.63 445.57 274.63 167.26 179.88 167.26"></polygon>
+<polygon points="1210.7 184.34 1149.1 184.34 1149.1 439.05 1210.7 439.05 1220.4 439.05 1300.4 439.05 1300.4 24.33 1210.7 24.33"></polygon>
+<polygon points="457.29 439.05 457.56 439.05 544.64 439.05 569.47 439.05 569.47 177.91 457.29 177.91"></polygon>
+</g>
+<polygon fill="#1c7cb1" points="1225.2 137.01 1220.2 137.01 1220.2 207.76 1197.8 207.76 1197.8 184.36 1186.2 184.36 1186.2 132.66 1183.6 132.66 1183.6 184.36 1166.3 184.36 1166.3 207.76 1156.7 207.76 1156.7 193.07 1141.3 193.07 1141.3 158.78 1138.8 158.78 1138.8 193.07 1127.7 193.07 1127.7 174.56 1125.2 174.56 1125.2 193.07 1108.2 193.07 1108.2 163.68 1105.7 163.68 1105.7 193.07 1092.4 193.07 1092.4 207.76 1060.3 207.76 1060.3 389.78 1050.6 389.78 1050.6 335.49 1046.5 335.49 1039.9 328.17 1033.2 335.49 1032.5 335.49 1025.9 328.17 1019.2 335.49 1000.6 335.49 1000.6 329.58 1000.6 329.58 1000.6 445.57 1008.7 445.57 1050.6 445.57 1060.3 445.57 1062.8 445.57 1067.2 445.57 1075.1 445.57 1077.2 445.57 1086.4 445.57 1088.5 445.57 1097.6 445.57 1099.7 445.57 1107.3 445.57 1111.7 445.57 1127.4 445.57 1248.6 445.57 1248.6 207.76 1225.2 207.76"></polygon>
+<path d="M433.3,282.72V357H416.46v-206h8.66v-8.26h-27.5V124.23H392v-6h-9.23v-6H380.9L311.52,62.41l-69.38,49.76h-1.86v6h-9.23v6h-5.63v18.46h-27.5v8.26h8.66V445.57h310V280H433.3ZM236.69,157.38v-6.44h0v6.44Z" fill="#1c7cb1" transform="translate(-.02)"></path>
+<polygon fill="#1c7cb1" points="1261.6 186.87 1261.6 191.31 1261.6 197.91 1261.6 203.43 1261.6 221.37 1261.6 226.88 1261.6 244.82 1261.6 250.34 1261.6 268.28 1261.6 273.8 1261.6 291.74 1261.6 297.25 1261.6 315.19 1261.6 320.72 1261.6 338.65 1261.6 344.17 1261.6 362.11 1261.6 367.63 1261.6 385.57 1261.6 391.09 1261.6 405.35 1261.6 410.87 1261.6 420.68 1261.6 426.2 1261.6 448.89 1298.4 448.89 1298.4 426.2 1298.4 420.68 1298.4 410.87 1298.4 405.35 1298.4 391.09 1298.4 385.57 1298.4 367.63 1298.4 362.11 1298.4 344.17 1298.4 338.65 1298.4 320.72 1298.4 315.19 1298.4 297.25 1298.4 291.74 1298.4 273.8 1298.4 268.28 1298.4 250.34 1298.4 244.82 1298.4 226.88 1298.4 221.37 1298.4 203.43 1298.4 197.91 1298.4 191.31 1298.4 186.87 1298.4 182.42 1261.6 182.42"></polygon>
+<path d="M865.71,277.86v-4.91h2v-1.43h1.61v-1.43h1.79v-6H821.92v-35.4h0v-4.43h3.57V222h-3.58l-3.93-4.37h.1l1.86-3.33L818,211h-.59l-1.75-6.43h-2c-.36-2.41-5.39-32.52-32.1-43.23h0l-1.18-7a35,35,0,0,0-8.25-2.58v-3.18H771v-.7h-.1V129.07h1.88V125h-4.13v-3.9h-6V66.19c2.59-3.59,6.22-3.24,8.94.49s6.22,3.24,8.93-.49v-12c-2.71,3.73-6.34,4.08-8.93.49s-6.34-4.08-8.94-.49V47.85h-2v73.27h-6.33V125h-4.13v4.06h1.88v19.52h-1.28v3a32.16,32.16,0,0,0-9.35,3.15l-1.39,6.56h0C713.42,172,708.39,202.16,708,204.57h-.2L706.09,211h-.6l-1.85,3.33,1.85,3.33h.13L701.69,222H698v2.21h3.57v35.36h-.09v1.15h-.41v3.32H652.43v6h1.79v1.43h1.61v1.43h2v11H530.11v44.52H531v2.75h1V334h1.27V438.53H532v2.75h2v4.29H989.45v-4.29h2v-2.75H990.2V334h1.27v-2.75h1v-2.75h.88V284H865.71Z" fill="#1c7cb1" transform="translate(-.02)"></path>
+<polygon fill="#1c7cb1" points="1473.3 147.44 1473.3 127.2 1468.5 127.2 1468.5 147.44 1444.5 147.44 1444.5 138.09 1398.5 138.09 1398.5 147.44 1377.3 147.44 1377.3 120.19 1372.4 120.19 1372.4 147.44 1353.2 147.44 1353.2 109.81 1348.3 109.81 1348.3 147.44 1306 147.44 1306 445.57 1315 445.57 1322.1 445.57 1347.7 445.57 1354.8 445.57 1359.5 445.57 1366.6 445.57 1371.3 445.57 1378.4 445.57 1383.1 445.57 1390.2 445.57 1394.9 445.57 1402 445.57 1406.7 445.57 1413.8 445.57 1418.5 445.57 1425.6 445.57 1430.3 445.57 1437.4 445.57 1442.1 445.57 1449.2 445.57 1467.4 445.57 1474.4 445.57 1488 445.57 1495.1 445.57 1495.1 438.35 1495.1 434.98 1495.1 421.46 1495.1 418.09 1495.1 404.58 1495.1 401.21 1495.1 387.69 1495.1 384.32 1495.1 370.81 1495.1 367.43 1495.1 353.92 1495.1 350.55 1495.1 337.03 1495.1 333.66 1495.1 320.15 1495.1 316.78 1495.1 303.26 1495.1 299.89 1495.1 286.38 1495.1 283 1495.1 269.49 1495.1 266.12 1495.1 252.6 1495.1 249.23 1495.1 235.72 1495.1 232.34 1495.1 218.83 1495.1 215.46 1495.1 201.95 1495.1 198.57 1495.1 185.06 1495.1 181.69 1495.1 171.18 1495.1 147.44"></polygon>
+<polygon fill="#1c7cb1" points="184.43 280.85 172.29 280.85 172.29 294.62 164.29 294.62 164.29 280.85 136.23 280.85 136.23 294.62 111.57 294.62 111.57 334.15 109.57 335.49 108.4 335.49 97.5 328.17 92.91 331.26 92.91 321.95 92.91 319.19 92.91 301.35 92.91 298.59 92.91 280.75 92.91 277.99 92.91 260.14 92.91 257.38 5.87 257.38 5.87 258.7 5.87 260.14 5.87 277.99 5.87 280.75 5.87 298.59 5.87 301.35 5.87 319.19 5.87 321.95 5.87 339.8 5.87 342.56 5.87 360.4 5.87 363.16 5.87 381 5.87 383.76 5.87 401.61 5.87 404.37 5.87 422.21 5.87 424.97 5.87 442.81 5.87 443.34 5.87 445.57 56.1 445.57 92.91 445.57 111.57 445.57 138.03 445.57 188.96 445.57 188.96 294.62 184.43 294.62"></polygon>
+<rect fill="#1c7cb1" height="25.9" width="1503.8" y="439.41"></rect>
+</svg>
+</div>
+<div class="copyright">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12">
+<div class="page-area global" pageareaid="Sponsor Area">
+<ul class="cms-widgets">
+<li class="cms-widget published" contentid="313084" contenttypeid="6" order="0" pageareaid="Sponsor Area">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-313084">
+<p style="text-align: center;"><span style="font-size:22px;"><strong>COMMUNITY PARTNERS</strong></span></p>
+</div>
+<span style="clear:both;display:block;"></span>
+</li>
+<li class="cms-widget published" contentid="313079" contenttypeid="6" order="1" pageareaid="Sponsor Area">
+<!-- 
+    <span>Generic</span>
+ -->
+<div class="cms-design-panel" id="content-313079">
+<div id="mni-ads-1410549483939"> </div>
+<script type="text/javascript">// <![CDATA[
+var _mnisq=_mnisq||[];
+(function($){_mnisq.push(["1410549483939.context",151],["1410549483939.max",71],["1410549483939.rotate",!1],["1410549483939.onCreated",function(e){$(e).bind('beforeStarting',function(){$('.js-marquee-wrapper',e).css('margin-left',0)}).marquee({duration:50E3,duplicated:!0,pauseOnHover:!0,gap:0})}],["1410549483939.create","mni-ads-1410549483939"])})(CMS.jQuery);
+// ]]></script><script>
+jQuery = CMS.jQuery;
+</script><script src="https://cdn.jsdelivr.net/jquery.marquee/1.3.1/jquery.marquee.min.js" type="text/javascript"></script><script>
+CMS.jQuery = jQuery.noConflict(true);
+</script> </div>
+<span style="clear:both;display:block;"></span>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-12 text-center"> <p>© Copyright 2019 Montgomery Area Chamber of Commerce - AL. All Rights Reserved. Site provided by <a href="http://www.growthzone.com" target="_blank">GrowthZone</a> - powered by <a href="http://www.chambermaster.com" target="_blank">ChamberMaster</a> software.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<link href="/css/layout/No Sidebar No Global" rel="stylesheet"/>
+<!-- <script type="text/javascript" src="/js/No Sidebar No Global"></script> -->
+</div>
+<!-- Begin Scripts -->
+<script src="https://montgomerychamberalabama.chambermaster.com/backofficecontent/Scripts/Login.min.js" type="text/javascript"></script>
+<!-- Page Footer -->
+<script src="/Content/bundles/cms-public-footer-scripts?v=Rzbx5ievZalZ3a8XYWXSpBJDJhiXyOks9f4AhNtf29M1"></script>
+<script>
+  (function ($) {
+
+    CMS.Defaults.SliderGallery = {
+        "SliderType": 2,
+        "PreserveAspect": true
+    };
+    CMS.Data.Design[1].styles.unshift({ Name: "Horizontal Image with Text", Value: "eden-block ", ColorFilter: CMS.Utilities.OnlyColors(['Primary', 'Secondary', 'Optional Third']) });
+    var $animation_elements = $('.animation-element');
+    var $window = $(window);
+    function resizeHeader() {
+        $('header')[($(document).scrollTop() > 250 ? 'add' : 'remove') + 'Class']('smaller');
+    };
+    $('.logo img').load(resizeHeader);
+    $window.scroll(resizeHeader);
+
+    function check_if_in_view() {
+        var window_height = $window.height();
+        var window_top_position = $window.scrollTop();
+        var window_bottom_position = (window_top_position + window_height);
+
+        $.each($animation_elements, function () {
+            var $element = $(this);
+            var element_height = $element.outerHeight();
+            var element_top_position = $element.offset().top;
+            var element_bottom_position = (element_top_position + element_height);
+
+            //check to see if this current container is within viewport
+            if ((element_bottom_position >= window_top_position) &&
+              (element_top_position <= window_bottom_position)) {
+                $element.addClass('in-view');
+            } else {
+                $element.removeClass('in-view');
+            }
+        });
+    }
+
+    $window.on('scroll resize', check_if_in_view);
+    $window.trigger('scroll');
+
+    $("div.color-field.cms-color-4 label").text(function () {
+        return $(this).text().replace("Main Menu: ", "Top Bar: ");
+    });
+    $("div.color-field.cms-color-4").insertBefore($("div.color-field.cms-color-7"));
+})(CMS.jQuery);
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cssuseragent/2.1.31/cssua.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    (function ($) {
+        $(function () {
+            try {
+                $(".gallery a").fancybox({
+                    nextEffect: 'fade',
+                    prevEffect: 'fade',
+                    openEffect: 'fade',
+                    closeEffect: 'fade',
+                    helpers: {
+                        title: {
+                            type: 'float'
+                        }
+                    }
+                });
+            } catch (err) { }
+        });
+    })(CMS.jQuery);
+    </script>
+<!-- Site Footer -->
+<!-- footer data -->
+<script type="text/javascript">
+function menuAdjustment() {
+  if (window.innerWidth >= 1199){
+    CMS.jQuery( '.cms-search .form-group input[type="text"]' ).focusin( function() {
+      CMS.jQuery('.top-navigation .navbar a').css('opacity', '0');
+    });
+    CMS.jQuery( '.cms-search .form-group input[type="text"]' ).focusout( function() {
+      CMS.jQuery('.top-navigation .navbar a').css('opacity', '1');
+    });
+  } else {
+    CMS.jQuery( '.cms-search .form-group input[type="text"]' ).focusin( function() {
+      CMS.jQuery('.top-navigation .navbar a').css('opacity', '1');
+    });
+    CMS.jQuery( '.cms-search .form-group input[type="text"]' ).focusout( function() {
+      CMS.jQuery('.top-navigation .navbar a').css('opacity', '1');
+    });
+  }
+}
+window.onload = menuAdjustment;
+window.onresize = menuAdjustment; 
+</script>
+<script>
+// get the utc timezone offset and convert to milliseconds
+var utc_offset = new Date().getTimezoneOffset() * 60 * 1000;
+
+// set the date we're counting down to
+var target_utc_date = new Date('Sept 17, 2019 11:30:00').getTime();
+var target_date = target_utc_date + utc_offset;
+
+// variables for time units
+var days, hours, minutes, seconds;
+
+// get tag element
+var countdown = document.getElementById('countdown');
+
+// update the tag with id "countdown" every 1 second
+setInterval(function () {
+
+	// find the amount of "seconds" between now and target
+	var current_utc_date = new Date().getTime();
+	var current_date = current_utc_date + utc_offset;
+	var seconds_left = (target_date - current_date) / 1000;
+
+	// do some time calculations
+	days = parseInt(seconds_left / 86400);
+	seconds_left = seconds_left % 86400;
+	 
+	hours = parseInt(seconds_left / 3600);
+	seconds_left = seconds_left % 3600;
+	 
+	minutes = parseInt(seconds_left / 60);
+	seconds = parseInt(seconds_left % 60);
+	 
+	// format countdown string + set tag value
+	countdown.innerHTML = '<span class="days">' + days +  ' <b>Days</b></span> <span class="hours">' + hours + ' <b>Hours</b></span> <span class="minutes">'
+	+ minutes + ' <b>Minutes</b></span> <span class="seconds">' + seconds + ' <b>Seconds</b></span>';  
+
+}, 1000);
+</script> <!-- End Scripts -->
+<script type="text/javascript">window.CMSTemplateUrl = 'http://www.montgomerychamber.com/PublicLayout';</script>
+<script type="text/javascript">
+            (function ($) {
+                $(function () {
+                    if (document.cookie.indexOf('scms=') != -1) {
+                        $(document.body).prepend('<div class="cm-cms-status-header" id="cm-cms-status"><a href="' + window.location.href + '?clearcache=true" class="refresh clickable-text"><i class="fa fa-refresh"></i> Refresh Template</a><span class="message">Page content is editable through ChamberMaster. Page template content is <a href="' + window.CMSTemplateUrl + '">editable here</a>.</span><div class="logout-block"><a href="/Services/Logout/?redirectUrl=/" class="logout clickable-text">Logout <i class="fa fa-close"></i></a></div></div><div class="cm-cms-status-header"></div>');
+                        $(".cm-cms-status-header").slideDown();
+                    }
+                })
+            })((window.CMS || window.MNI || window).jQuery || window.$);
+        </script>
+<script type="text/javascript">
+MNI.jQuery('#mn-comm-index .mn-form-overview:contains("Please select the items that interest you. You will receive periodic communications from us regarding your selections.")').text('Please select the items that interest you. You will receive weekly communications from us regarding your selections.');
+</script></body>
+<!-- END body -->
+</html>
+
+Events Calendar - Montgomery Area Chamber of Commerce - AL, ALABAMA
