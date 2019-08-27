@@ -7,17 +7,30 @@ from scraper.items import ScraperItem
 class gumptownMagazineHelper():
     # I can't get any LD+JSON parser to work in Python so resort to parsing with AST
     def bruteForceParseEvent(event):
-        eventDict = ast.literal_eval(event)
-#        print("$$$$$$ ", eventDict)
+#        print("!!!!!! ", str(event))
+        eventDict = ast.literal_eval(str(event))
         item = ScraperItem()
         item['title'] = eventDict['name']
         item['uri'] = eventDict['url']
         item['description'] = eventDict['description']
         item['starts_at'] = eventDict['startDate']
         item['ends_at'] = eventDict['endDate']
-#        if "location" in eventDict:
-#            locationDict = ast.literal_eval(eventDict['location'])
-#            item['location_name'] = str(locationDict)
+        if "location" in eventDict:
+#            print("======== ", eventDict['location'])
+            locationDict = ast.literal_eval(str(eventDict['location']))
+            if "name" in locationDict:
+                item['location_name'] = locationDict['name']
+            if "address" in locationDict:
+                addressDict = ast.literal_eval(str(locationDict['address']))
+                if "streetAddress" in addressDict:
+                    item['location_street1'] = addressDict['streetAddress']
+                if "addressLocality" in addressDict:
+                    item['location_city'] = addressDict['addressLocality']
+                if "addressRegion" in addressDict:
+                    item['location_state'] = addressDict['addressRegion']
+                if "postalCode" in addressDict:
+                    item['location_zip'] = addressDict['postalCode']
+
         return item
 
 class gumptownMagazineSpider(scrapy.Spider):
@@ -34,6 +47,5 @@ class gumptownMagazineSpider(scrapy.Spider):
         scripts = soup.find_all('script', {'type':'application/ld+json'})
         events = json.loads(scripts[1].string)
         for event in events:
-            event = str(event)
             item = gumptownMagazineHelper.bruteForceParseEvent(event)
             yield item
