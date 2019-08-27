@@ -25,7 +25,12 @@ if [ $status -ne 0 ]; then
 fi
 
 # call each scraper
-
+curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call MGM Chamber scraper: $status"
+  exit $status
+fi
 
 # Naive check runs checks once a minute to see if either of the processes exited.
 # This illustrates part of the heavy lifting you need to do if you want to run
