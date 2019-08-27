@@ -19,5 +19,8 @@ EXPOSE 6800
 # Copy the project source code from the local host to the filesystem of the container at the working directory.
 COPY . .
 
-# Run the crawler when the container launches.
-CMD [ "python3", "./app.py" ]
+#make startup script executable
+RUN chmod 777 /tmp/src/scraper/scripts/startup.sh
+
+# Run the crawler when the container launches.  Sleep so script won't exit and container stays up
+CMD /tmp/src/sraper/scripts/startup.sh  ; sleep infinity
