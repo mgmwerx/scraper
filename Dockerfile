@@ -2,7 +2,7 @@
 FROM python:3
 
 # Set the working directory to /usr/src/app.
-WORKDIR /opt/mgmwerx/scraper
+WORKDIR /opt/mgmwerx/
 
 # Copy the file from the local host to the filesystem of the container at the working directory.
 COPY requirements.txt ./
