@@ -24,6 +24,9 @@ if [ $status -ne 0 ]; then
   exit $status
 fi
 
+#list spiders
+curl http://scraper-scraper.apps.afitc.redhatgov.io/listspiders.json?project=scraper
+
 # call each scraper
 curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
