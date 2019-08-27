@@ -23,7 +23,7 @@ RUN pwd
 RUN ls -R
 
 #make startup script executable
-RUN chmod 777 ./scraper/scripts/startup.sh
+RUN chmod 777 /tmp/src/scraper/scripts/startup.sh
 
 # Run the crawler when the container launches.  Sleep so script won't exit and container stays up
-CMD ./sraper/scripts/startup.sh  ; sleep infinity
+CMD /tmp/src/sraper/scripts/startup.sh  ; sleep infinity
