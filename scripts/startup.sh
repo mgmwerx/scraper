@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# turn on bash's job control
+set -m
+
 # Start scrapyd
 python ./app.py &
 status=$?
@@ -27,9 +30,6 @@ fi
 #list spiders
 curl http://scraper-scraper.apps.afitc.redhatgov.io/listspiders.json?project=scraper
 
-#Sleep for 10
-sleep 10s
-
 # call each scraper
 curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
@@ -38,22 +38,7 @@ if [ $status -ne 0 ]; then
   exit $status
 fi
 
-# Naive check runs checks once a minute to see if either of the processes exited.
-# This illustrates part of the heavy lifting you need to do if you want to run
-# more than one service in a container. The container will exit with an error
-# if it detects that either of the processes has exited.
-# Otherwise it will loop forever, waking up every 60 seconds
-
-while /bin/true; do
-  ps aux |grep python |grep -q -v grep
-  PROCESS_1_STATUS=$?
-#  ps aux |grep my_second_process |grep -q -v grep
-#  PROCESS_2_STATUS=$?
-  # If the greps above find anything, they will exit with 0 status
-  # If they are not both 0, then something is wrong
-#  if [ $PROCESS_1_STATUS -ne 0 -o $PROCESS_2_STATUS -ne 0 ]; then
-#    echo "One of the processes has already exited."
-#    exit -1
-#  fi
-  sleep 60
+# now we bring the primary process back into the foreground
+# and leave it there
+fg %1
 done
