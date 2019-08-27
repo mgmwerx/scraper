@@ -7,7 +7,7 @@ import ast
 import scrapy
 from scraper.items import ScraperItem
 
-class gumptownMagazineHelper():
+class eventbriteHelper():
     # I can't get any LD+JSON parser to work in Python so resort to parsing with AST
     def bruteForceParseEvent(event):
 #        print("!!!!!! ", str(event))
@@ -36,19 +36,19 @@ class gumptownMagazineHelper():
 
         return item
 
-class gumptownMagazineSpider(scrapy.Spider):
-    name = "gumptownMagazine-spider"
+class eventbriteSpider(scrapy.Spider):
+    name = "eventbrite-spider"
 
     # The allowed domain and the URLs where the spider should start crawling:
-    allowed_domains = ["gumptownmag.com"]
-    start_urls = ['https://gumptownmag.com/events/']
+    allowed_domains = ["eventbrite.com"]
+    start_urls = ['https://www.eventbrite.com/d/al--montgomery/events/']
 
     # Walk through the web page making broad assumptions about how the information
     # is organized and presented. Such is the nature of web scraping. Minimal error catching.
     def parse(self, response):
         soup = BeautifulSoup(response.text, 'lxml')
         scripts = soup.find_all('script', {'type':'application/ld+json'})
-        events = json.loads(scripts[1].string)
+        events = json.loads(scripts[0].string)
         for event in events:
-            item = gumptownMagazineHelper.bruteForceParseEvent(event)
+            item = eventbriteHelper.bruteForceParseEvent(event)
             yield item
