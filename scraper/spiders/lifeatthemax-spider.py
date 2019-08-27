@@ -25,10 +25,9 @@ class LifeAtTheMaxSpider(CrawlSpider):
         detail = {}
         detail['title'] = response.xpath('//div[@class="jev_evdt_title"]/text()').get()
         detail['url'] = eventurl
-        detail['summary'] = str(response.xpath('//div[@class="jev_evdt_summary"]/text()').get()).replace('\xa0',' ')
+        detail['starts_at'] = str(response.xpath('//div[@class="jev_evdt_summary"]/text()').get()).replace('\xa0',' ')
         detail['location'] = response.xpath('//div[@class="jev_evdt_location"]/text()').get() 
-        detail['starts_at'] = "N/A"
-        detail['ends_at'] = "N/A"
+        detail['ends_at'] = detail['starts_at']
         detail['categories'] = "N/A"
         print(detail)
         print("------------------------")
