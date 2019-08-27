@@ -24,6 +24,12 @@ if [ $status -ne 0 ]; then
   exit $status
 fi
 
+#list spiders
+curl http://scraper-scraper.apps.afitc.redhatgov.io/listspiders.json?project=scraper
+
+#Sleep for 10
+sleep 10s
+
 # call each scraper
 curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
@@ -39,7 +45,7 @@ fi
 # Otherwise it will loop forever, waking up every 60 seconds
 
 while /bin/true; do
-  ps aux |grep my_first_process |grep -q -v grep
+  ps aux |grep python |grep -q -v grep
   PROCESS_1_STATUS=$?
 #  ps aux |grep my_second_process |grep -q -v grep
 #  PROCESS_2_STATUS=$?
