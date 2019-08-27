@@ -16,8 +16,6 @@ EXPOSE 6800
 # Copy the project source code from the local host to the filesystem of the container at the working directory.
 COPY . .
 
-RUN pwd && ls
-
 #make startup script executable
 RUN chmod 777 ./scripts/startup.sh
 
