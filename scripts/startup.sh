@@ -32,6 +32,9 @@ if [ $status -ne 0 ]; then
   exit $status
 fi
 
+#list all projects
+curl http://scraper-scraper.apps.afitc.redhatgov.io/listjobs.json?project=scraper | python -m json.tool
+
 # Naive check runs checks once a minute to see if either of the processes exited.
 # This illustrates part of the heavy lifting you need to do if you want to run
 # more than one service in a container. The container will exit with an error
