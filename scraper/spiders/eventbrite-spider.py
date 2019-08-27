@@ -16,8 +16,8 @@ class eventbriteHelper():
         item['title'] = eventDict['name']
         item['uri'] = eventDict['url']
         item['description'] = eventDict['description']
-        item['starts_at'] = eventDict['startDate']
-        item['ends_at'] = eventDict['endDate']
+        item['starts_at'] = eventDict['startDate'] + "T00:00"
+        item['ends_at'] = eventDict['endDate'] + "T00:00"
         if "location" in eventDict:
 #            print("======== ", eventDict['location'])
             locationDict = ast.literal_eval(str(eventDict['location']))

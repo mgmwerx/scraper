@@ -2,6 +2,8 @@
 # software artistry in the future.
 
 from bs4 import BeautifulSoup
+from datetime import date
+from datetime import datetime
 import json
 import ast
 import scrapy
@@ -16,8 +18,10 @@ class knowTheCommunityHelper():
         item['title'] = eventDict['name']
         item['uri'] = eventDict['url']
         item['description'] = eventDict['description']
-        item['starts_at'] = eventDict['startDate']
-        item['ends_at'] = eventDict['endDate']
+        startsAtDate = datetime.strptime(eventDict['startDate'], "%Y-%m-%dT%H:%M:%S+00:00")
+        item['starts_at'] = datetime.strftime(startsAtDate, "%Y-%m-%dT%H:%M")
+        endsAtDate = datetime.strptime(eventDict['endDate'], "%Y-%m-%dT%H:%M:%S+00:00")
+        item['ends_at'] = datetime.strftime(endsAtDate, "%Y-%m-%dT%H:%M")
         if "location" in eventDict:
 #            print("======== ", eventDict['location'])
             locationDict = ast.literal_eval(str(eventDict['location']))
