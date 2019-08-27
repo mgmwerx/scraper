@@ -20,4 +20,4 @@ COPY . .
 RUN chmod 777 ./scripts/startup.sh
 
 # Run the crawler when the container launches.  Sleep so script won't exit and container stays up
-CMD ./scripts/startup.sh  ; sleep infinity
+CMD exec ./scripts/startup.sh  ; sleep infinity
