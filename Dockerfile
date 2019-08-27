@@ -20,6 +20,7 @@ EXPOSE 6800
 COPY . .
 
 RUN pwd
+RUN ls -R
 
 #make startup script executable
 RUN chmod 777 ./scraper/scripts/startup.sh
