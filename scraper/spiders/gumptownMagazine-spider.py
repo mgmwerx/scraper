@@ -1,3 +1,6 @@
+# Written by Dennis Brown. Curse his name when you have to maintain this fine piece of
+# software artistry in the future.
+
 from bs4 import BeautifulSoup
 import json
 import ast
