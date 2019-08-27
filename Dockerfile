@@ -1,5 +1,5 @@
 # As Scrapy runs on Python, I choose the official Python 3 Docker image.
-FROM python:3
+FROM python:latest
 
 # Copy the file from the local host to the filesystem of the container at the working directory.
 COPY requirements.txt ./
