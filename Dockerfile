@@ -10,6 +10,10 @@ COPY requirements.txt ./
 # Install Scrapy specified in requirements.txt.
 RUN pip3 install --no-cache-dir -r requirements.txt
 
+# Download Spacy NLP model
+# RUN python -m spacy download en_core_web_sm
+
+# Expose port 6800 for Scrapyd
 EXPOSE 6800
 
 # Copy the project source code from the local host to the filesystem of the container at the working directory.
