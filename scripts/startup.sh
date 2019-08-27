@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start scrapyd
-python ./app.py
+python ./app.py &
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to start scrapyd: $status"
