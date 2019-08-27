@@ -59,8 +59,9 @@ class visitingMontgomerySpider(scrapy.Spider):
         soup = BeautifulSoup(response.text, 'lxml')
         usefulH2 = soup.find_all('h2')[1]
         
-        # Event name
+        # Event name & URL
         item['title'] = usefulH2.string
+        item['uri'] = response.url
         
         # Build the description from multiple paragraphs that may contain additional tags.
         leftPs = usefulH2.find_next_sibling('div', {'class':'att-detail-left-col'}).find_all('p')
