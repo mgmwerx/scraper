@@ -2,6 +2,9 @@
 import scrapy
 import json
 import re
+import requests
+
+
 
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
@@ -14,15 +17,19 @@ class LifeAtTheMaxSpider(CrawlSpider):
 
     def parse(self, response):
         i = 0
-        for div in response.xpath('//li'):
+        # print(response)
+        for div in response.xpath('//a'):
             item = {}
-            #item = div.xpath('.//a')
-            print(div)
-            # Parse String from day time -
-            print("------------------------")
-           
+            item = div.xpath('./@href').get()
+            #print(item)
+            eventurl =  "https://www.lifeatthemax.us/" + item
+            yield scrapy.Request(eventurl, callback=self.parse_details)
+
     def parse_details(self, response):
         detail = {}
-        #print(detail)
-        
+        detail['title'] = response.xpath('//div[@class="jev_evdt_title"]/text()').get()
+        detail['summary'] = response.xpath('//div[@class="jev_evdt_summary"]/text()').get() 
+        detail['location'] = response.xpath('//div[@class="jev_evdt_location"]/text()').get() 
+        print(detail)
+        print("------------------------")
         return detail
