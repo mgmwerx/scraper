@@ -2,7 +2,7 @@
 FROM python:3
 
 # Set the working directory to /usr/src/app.
-WORKDIR /opt/mgmwerx/
+WORKDIR /tmp/src/
 
 # Copy the file from the local host to the filesystem of the container at the working directory.
 COPY requirements.txt ./
@@ -20,7 +20,7 @@ EXPOSE 6800
 COPY . .
 
 #make startup script executable
-RUN chmod 777 /opt/mgmwerx/scraper/scripts/startup.sh
+RUN chmod 777 /tmp/src/scraper/scripts/startup.sh
 
 # Run the crawler when the container launches.  Sleep so script won't exit and container stays up
-CMD /opt/mgmwerx/sraper/scripts/startup.sh  ; sleep infinity
+CMD /tmp/src/sraper/scripts/startup.sh  ; sleep infinity
