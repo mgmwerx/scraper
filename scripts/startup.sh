@@ -27,6 +27,9 @@ fi
 #list spiders
 curl http://scraper-scraper.apps.afitc.redhatgov.io/listspiders.json?project=scraper
 
+#Sleep for 10
+sleep 10s 
+
 # call each scraper
 curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
