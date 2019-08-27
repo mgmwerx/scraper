@@ -10,8 +10,10 @@ COPY requirements.txt ./
 # Install Scrapy specified in requirements.txt.
 RUN pip3 install --no-cache-dir -r requirements.txt
 
+EXPOSE 6800
+
 # Copy the project source code from the local host to the filesystem of the container at the working directory.
 COPY . .
 
 # Run the crawler when the container launches.
-CMD [ "python3", "./launch-spider.py" ]
+CMD [ "python3", "./app.py" ]
