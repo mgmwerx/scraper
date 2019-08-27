@@ -4,6 +4,7 @@
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
+import re
 import scrapy
 from scraper.items import ScraperItem
 
@@ -27,7 +28,34 @@ class visitingMontgomeryHelper():
     # Since there is such variety in how the addresses are entered, this is seldom
     # likely to produce complete information.
     def parseAddressString(addressString, item):
+        # Set some default values in case we can't parse them
         item['location_name'] = addressString
+        item['location_city'] = "Montgomery"
+        item['location_state'] = "AL"
+        
+        # Then try to parse
+        # Assume ZIP is last. Could wind up with some interesting zip codes...
+        item['location_zip'] = addressString[-5:]
+        # If the ZIP isn't a string of 5 numbers, blank it out
+        zipRegex = re.compile("^\d{5}$")
+        if not zipRegex.match(item['location_zip']):
+            item['location_zip'] = ""
+        else:
+            # ZIP is good, so chop it out of the address string
+            addressString = addressString[0:-6]
+                
+        # If the string now ends in a comma, chop it off
+        if addressString[len(addressString) - 1] == ",":
+            addressString = addressString[0:-1]
+
+        # If we have enough parts left, assume what those parts are
+        addressParts = addressString.split(",")
+        last = len(addressParts) - 1
+        if last >= 2:
+            item['location_state'] = addressParts[last].strip()
+            item['location_city'] = addressParts[last - 1].strip()
+            item['location_street1'] = addressParts[last - 2].strip()
+
         return item
 
 
