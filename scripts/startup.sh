@@ -3,8 +3,8 @@
 # turn on bash's job control
 set -m
 
-SERVER_BASE='-scraper.apps.afitc.redhatgov.io'
-URL = "$HOSTNAME$SERVER_BASE"
+URL = $HOSTNAME'-scraper.apps.afitc.redhatgov.io'
+echo $url
 
 # Start scrapyd
 python ./app.py &
