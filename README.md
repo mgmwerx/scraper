@@ -18,7 +18,7 @@ The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a
 TODO:<BR/>
 <UL>
 <LI>QA each spider to ensure each is extracting all required data</LI>
-<LI>Standardize start and end date format in each spider<LI>
+<LI>Standardize start and end date format in each spider</LI>
 <LI>Some spiders require a 'details' page to be clicked and additional data to be extracted</LI>
 <LI>Scrape additional websites:<BR/>
 Montgomery Independent<BR/>
