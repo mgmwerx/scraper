@@ -20,7 +20,7 @@ if [ $status -ne 0 ]; then
 fi
 
 # upload egg
-curl http://scraper-scraper.apps.afitc.redhatgov.io/addversion.json -F project=scraper -F version=r23 -F egg=@dist/scraper-1.0-py3.7.egg
+curl http://localhost.localdomain:6800/addversion.json -F project=scraper -F version=r23 -F egg=@dist/scraper-1.0-py3.7.egg
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to upload egg: $status"
@@ -31,11 +31,11 @@ fi
 sleep 5s
 
 #list spiders
-curl http://scraper-scraper.apps.afitc.redhatgov.io/listspiders.json?project=scraper
+curl http://localhost.localdomain:6800/listspiders.json?project=scraper
 
 
 # call each scraper
-curl http://scraper-scraper.apps.afitc.redhatgov.io/schedule.json -d project=scraper -d spider=mgmchamber-spider
+curl http://localhost.localdomain:6800/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to call MGM Chamber scraper: $status"
