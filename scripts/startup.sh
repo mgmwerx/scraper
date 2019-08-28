@@ -3,7 +3,8 @@
 # turn on bash's job control
 set -m
 
-export URL="$HOSTNAME-scraper.apps.afitc.redhatgov.io"
+export PODNAME=$(echo "$HOSTNAME" | cut -d- -f1)
+export URL="$PODNAME-scraper.apps.afitc.redhatgov.io"
 echo $URL
 
 # Start scrapyd
