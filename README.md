@@ -17,7 +17,7 @@ The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a
 <BR/>
 Command line to launch container on OpenShift:<BR/>
 oc login https://afitc.redhatgov.io/<BR/>
-oc new-app https://github.com/mgmwerx/scraper --name zach --strategy=docker<BR/>
+oc new-app https://github.com/mgmwerx/scraper --name [name_of_instance] --strategy=docker<BR/>
 <BR/>
 TODO:<BR/>
 <UL>
