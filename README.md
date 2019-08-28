@@ -20,7 +20,7 @@ TODO:<BR/>
 <LI>QA each spider to ensure each is extracting all required data</LI>
 <LI>Standardize start and end date format in each spider</LI>
 <LI>Some spiders require a 'details' page to be clicked and additional data to be extracted</LI>
-<LI>Scrape additional websites:<BR/><BR/>
+<LI>Scrape additional websites:<BR/>
 ALMETRO 360 - need website url<BR/>
 Montgomery Independent - https://www.montgomeryindependent.com/calendar/<BR/>
 Montgomery Advertiser - http://events.montgomeryadvertiser.com/<BR/>
