@@ -15,6 +15,10 @@ The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a
 <LI>Visiting Montgomery - https://visitingmontgomery.com/calendar/</LI>
 </UL>
 <BR/>
+Command line to launch container on OpenShift:<BR/>
+oc login https://afitc.redhatgov.io/<BR/>
+oc new-app https://github.com/mgmwerx/scraper --name zach --strategy=docker<BR/>
+<BR/>
 TODO:<BR/>
 <UL>
 <LI>QA each spider to ensure each is extracting all required data</LI>
