@@ -9,11 +9,17 @@ set -m
 # Start scrapyd
 python ./app.py &
 
+#sleep 5 seconds to allow srapy to start
+sleep 5s
+
 # create egg
 python ./setup.py bdist_egg
 
 # upload egg
 curl http://$URL/addversion.json -F project=scraper -F version=r23 -F egg=@dist/scraper-1.0-py3.7.egg
+
+#sleep 10 seconds to allow egg to deploy
+sleep 10s
 
 #list spiders
 curl http:///$URL/listspiders.json?project=scraper
