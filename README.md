@@ -15,9 +15,11 @@ The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a
 <LI>Visiting Montgomery - https://visitingmontgomery.com/calendar/</LI>
 </UL>
 <BR/>
-<BR/>
 TODO:<BR/>
 <UL>
+<LI>QA each spider to ensure each is extracting all required data</LI>
+<LI>Standardize start and end date format in each spider<LI>
+<LI>Some spiders require a 'details' page to be clicked and additional data to be extracted</LI>
 <LI>Scrape additional websites:<BR/>
 Montgomery Independent<BR/>
 Montgomery Advertiser<BR/>
@@ -26,4 +28,5 @@ Bulletin Board Classifieds<BR/>
 TidBits Weekly<BR/>
 TriCounty Homes<BR/>
 </LI>
+<LI>Use NLP to extract data from unstructured text on certain websites.  See POC in project's /nlp folder</LI>
 </UL>
