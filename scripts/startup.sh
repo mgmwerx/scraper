@@ -37,12 +37,59 @@ sleep 5s
 #list spiders
 curl http:///$URL/listspiders.json?project=scraper
 
-
 # call each scraper
+curl http:///$URL/schedule.json -d project=scraper -d spider=eventbrite-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call EventBrite scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=gumptonwn-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call Gumptown scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=knowTheCommunity-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call Know the Community scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=lifeatthemax-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call Life at the Max scraper: $status"
+  exit $status
+fi
 curl http:///$URL/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to call MGM Chamber scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=mgmparents-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call MGM Parents scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=riverregion-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call River Region scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=rsvpMontgomery-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call RSVP Montgomery scraper: $status"
+  exit $status
+fi
+curl http:///$URL/schedule.json -d project=scraper -d spider=visitingMontgomery-spider
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to call Visiting Montgomery scraper: $status"
   exit $status
 fi
 
