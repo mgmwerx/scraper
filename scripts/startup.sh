@@ -3,7 +3,7 @@
 # turn on bash's job control
 set -m
 
-URL = $HOSTNAME'-scraper.apps.afitc.redhatgov.io'
+export URL="$HOSTNAME-scraper.apps.afitc.redhatgov.io"
 echo $URL
 
 # Start scrapyd
