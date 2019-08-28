@@ -2,7 +2,7 @@
 
 MGMwerx-scraper is a docker container project that runs in RedHat OpenShift <BR/>
 <BR/>
-The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a> for calendar event data:<BR/>
+The following websites are scraped using <a href="https://scrapy.org/">Scrapy</a> and <a href="https://scrapyd.readthedocs.io/en/stable/">Scrapyd</a> for calendar event data:<BR/>
 <UL>
 <LI>Eventbrite - https://www.eventbrite.com/d/al--montgomery/events/</LI>
 <LI>Gumptown Magazine - https://gumptownmag.com/events/</LI>
