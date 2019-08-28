@@ -24,7 +24,7 @@ if [ $status -ne 0 ]; then
 fi
 
 # upload egg
-curl http://$URL:6800/addversion.json -F project=scraper -F version=r23 -F egg=@dist/scraper-1.0-py3.7.egg
+curl http://$URL/addversion.json -F project=scraper -F version=r23 -F egg=@dist/scraper-1.0-py3.7.egg
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to upload egg: $status"
@@ -35,11 +35,11 @@ fi
 sleep 5s
 
 #list spiders
-curl http:///$URL:6800/listspiders.json?project=scraper
+curl http:///$URL/listspiders.json?project=scraper
 
 
 # call each scraper
-curl http:///$URL:6800/schedule.json -d project=scraper -d spider=mgmchamber-spider
+curl http:///$URL/schedule.json -d project=scraper -d spider=mgmchamber-spider
 status=$?
 if [ $status -ne 0 ]; then
   echo "Failed to call MGM Chamber scraper: $status"
