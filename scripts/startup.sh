@@ -1,18 +1,13 @@
 #!/bin/bash
 
-# turn on bash's job control
-set -m
-
 export PODNAME=$(echo "$HOSTNAME" | cut -d- -f1)
 export URL="$PODNAME-scraper.apps.afitc.redhatgov.io"
 
+# turn on bash's job control
+set -m
+
 # Start scrapyd
 python ./app.py &
-status=$?
-if [ $status -ne 0 ]; then
-  echo "Failed to start scrapyd: $status"
-  exit $status
-fi
 
 # create egg
 python ./setup.py bdist_egg
