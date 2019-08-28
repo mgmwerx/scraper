@@ -4,7 +4,7 @@
 set -m
 
 URL = $HOSTNAME'-scraper.apps.afitc.redhatgov.io'
-echo $url
+echo $URL
 
 # Start scrapyd
 python ./app.py &
