@@ -20,13 +20,14 @@ TODO:<BR/>
 <LI>QA each spider to ensure each is extracting all required data</LI>
 <LI>Standardize start and end date format in each spider</LI>
 <LI>Some spiders require a 'details' page to be clicked and additional data to be extracted</LI>
-<LI>Scrape additional websites:<BR/>
-Montgomery Independent<BR/>
-Montgomery Advertiser<BR/>
-River Region Boom<BR/>
-Bulletin Board Classifieds<BR/>
-TidBits Weekly<BR/>
-TriCounty Homes<BR/>
+<LI>Scrape additional websites:<BR/><BR/>
+ALMETRO 360 - need website url<BR/>
+Montgomery Independent - https://www.montgomeryindependent.com/calendar/<BR/>
+Montgomery Advertiser - http://events.montgomeryadvertiser.com/<BR/>
+River Region Boom - http://riverregionboom.com/<BR/>
+Bulletin Board Classifieds - need website url<BR/>
+TidBits Weekly - http://www.tidbitsweekly.com/news-events<BR/>
+TriCounty Homes - https://www.tri-countyads.com/<BR/>
 </LI>
 <LI>Use NLP to extract data from unstructured text on certain websites.  See POC in project's /nlp folder</LI>
 </UL>
