@@ -27,7 +27,7 @@ curl http:///$URL/listspiders.json?project=scraper
 # call each scraper
 curl http:///$URL/schedule.json -d project=scraper -d spider=eventbrite-spider
 
-curl http:///$URL/schedule.json -d project=scraper -d spider=gumptonwn-spider
+curl http:///$URL/schedule.json -d project=scraper -d spider=gumptownMagazine-spider
 
 curl http:///$URL/schedule.json -d project=scraper -d spider=knowTheCommunity-spider
 
